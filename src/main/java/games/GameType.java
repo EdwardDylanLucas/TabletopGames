@@ -23,6 +23,10 @@ import games.dominion.gui.DominionGUIManager;
 import games.dotsboxes.*;
 import games.explodingkittens.*;
 import games.explodingkittens.gui.ExplodingKittensGUIManager;
+import games.gomoku.GomokuForwardModel;
+import games.gomoku.GomokuGameParameters;
+import games.gomoku.GomokuGameState;
+import games.gomoku.gui.GomokuGUIManager;
 import games.hanabi.HanabiForwardModel;
 import games.hanabi.HanabiGameState;
 import games.hanabi.HanabiParameters;
@@ -206,7 +210,11 @@ public enum GameType {
     Mastermind(1,1,
             Arrays.asList(Simple, Abstract, CodeBreaking),
             Arrays.asList(),
-            MMGameState.class, MMForwardModel.class, MMParameters.class, MMGUIManager.class);
+            MMGameState.class, MMForwardModel.class, MMParameters.class, MMGUIManager.class),
+    Gomoku(2, 2,
+            Arrays.asList(Simple, Abstract),
+            Collections.singletonList(PatternBuilding),
+            GomokuGameState.class, GomokuForwardModel.class, GomokuGameParameters.class, GomokuGUIManager.class);
 
 
     // Core classes where the game is defined
