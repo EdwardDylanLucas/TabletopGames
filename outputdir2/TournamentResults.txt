@@ -1,0 +1,66 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 166
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.000	Random
+	0.995	FirstAction
+	0.004	osla
+
+Transition matrix for alpha = 10.0
+0.000	0.953	0.047	
+0.000	0.995	0.004	
+0.000	0.996	0.004	
+B matrix for alpha = 10.0
+0.910	0.949	0.949	
+0.949	3.880	1.044	
+0.949	1.044	0.993	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		osla
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.000	Random
+	0.995	FirstAction
+	0.004	osla
+
+Transition matrix for alpha = 10.0
+0.000	0.953	0.047	
+0.000	0.995	0.004	
+0.000	0.996	0.004	
+B matrix for alpha = 10.0
+0.910	0.949	0.949	
+0.949	3.880	1.044	
+0.949	1.044	0.993	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		osla
+
+Random got 112.00 points. Random won 11.2% of the 996 games of the tournament. Random won 16.9% of the 664 games it played during the tournament.
+Random won 9.3% of the 332 games against FirstAction.
+Random won 24.4% of the 332 games against osla.
+
+FirstAction got 557.00 points. FirstAction won 55.9% of the 996 games of the tournament. FirstAction won 83.9% of the 664 games it played during the tournament.
+FirstAction won 90.7% of the 332 games against Random.
+FirstAction won 77.1% of the 332 games against osla.
+
+osla got 327.00 points. osla won 32.8% of the 996 games of the tournament. osla won 49.2% of the 664 games it played during the tournament.
+osla won 75.6% of the 332 games against Random.
+osla won 22.9% of the 332 games against FirstAction.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+FirstAction: Win rate 0.84 +/- 0.014	Mean Ordinal 1.16 +/- 0.01
+osla: Win rate 0.49 +/- 0.019	Mean Ordinal 1.51 +/- 0.02
+Random: Win rate 0.17 +/- 0.015	Mean Ordinal 1.83 +/- 0.01
+
+Alpha-rank by Win Rate
+	FirstAction                   	1.00
+	osla                          	0.00
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	FirstAction                   	1.00
+	osla                          	0.00
+	Random                        	0.00
+

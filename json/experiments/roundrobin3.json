@@ -1,0 +1,12 @@
+{
+  "game" : "Connect4",
+  "nPlayers" : 2,
+  "mode" : "exhaustive",
+  "matchups" : 1000,
+  "verbose" : false,
+  "seed" : 740234,
+  "listener" : "json/listeners/basiclistener.json",
+  "destDir" : "outputdir2",
+  "output" : "outputdir2/Tournament.log",
+  "playerDirectory" : "json/players/roundrobinPlayers"
+}
