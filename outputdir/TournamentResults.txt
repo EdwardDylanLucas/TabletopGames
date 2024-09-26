@@ -1,0 +1,170 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 83
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	1.000	BasicMCTS
+	0.000	Random
+	0.000	RMHC
+	0.000	SuperOSLA
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	0.000	
+0.954	0.000	0.023	0.023	
+1.000	0.000	0.000	0.000	
+1.000	0.000	0.000	0.000	
+B matrix for alpha = 10.0
+4.910	0.954	1.022	1.022	
+0.954	0.912	0.954	0.954	
+1.022	0.954	1.000	1.000	
+1.022	0.954	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		RMHC
+		SuperOSLA
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	1.000	BasicMCTS
+	0.000	Random
+	0.000	RMHC
+	0.000	SuperOSLA
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	0.000	
+0.954	0.000	0.023	0.023	
+1.000	0.000	0.000	0.000	
+1.000	0.000	0.000	0.000	
+B matrix for alpha = 10.0
+4.910	0.954	1.022	1.022	
+0.954	0.912	0.954	0.954	
+1.022	0.954	1.000	1.000	
+1.022	0.954	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		RMHC
+		SuperOSLA
+
+BasicMCTS got 498.00 points. BasicMCTS won 50.0% of the 996 games of the tournament. BasicMCTS won 100.0% of the 498 games it played during the tournament.
+BasicMCTS won 100.0% of the 166 games against Random.
+BasicMCTS won 100.0% of the 166 games against RMHC.
+BasicMCTS won 100.0% of the 166 games against SuperOSLA.
+
+Random got 62.00 points. Random won 6.2% of the 996 games of the tournament. Random won 12.4% of the 498 games it played during the tournament.
+Random won 0.0% of the 166 games against BasicMCTS.
+Random won 18.7% of the 166 games against RMHC.
+Random won 18.7% of the 166 games against SuperOSLA.
+
+RMHC got 216.00 points. RMHC won 21.7% of the 996 games of the tournament. RMHC won 43.4% of the 498 games it played during the tournament.
+RMHC won 0.0% of the 166 games against BasicMCTS.
+RMHC won 81.3% of the 166 games against Random.
+RMHC won 48.8% of the 166 games against SuperOSLA.
+
+SuperOSLA got 220.00 points. SuperOSLA won 22.1% of the 996 games of the tournament. SuperOSLA won 44.2% of the 498 games it played during the tournament.
+SuperOSLA won 0.0% of the 166 games against BasicMCTS.
+SuperOSLA won 81.3% of the 166 games against Random.
+SuperOSLA won 51.2% of the 166 games against RMHC.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+SuperOSLA: Win rate 0.44 +/- 0.022	Mean Ordinal 1.56 +/- 0.02
+RMHC: Win rate 0.43 +/- 0.022	Mean Ordinal 1.57 +/- 0.02
+Random: Win rate 0.12 +/- 0.015	Mean Ordinal 1.88 +/- 0.01
+
+Alpha-rank by Win Rate
+	BasicMCTS                     	1.00
+	SuperOSLA                     	0.00
+	RMHC                          	0.00
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	BasicMCTS                     	1.00
+	SuperOSLA                     	0.00
+	RMHC                          	0.00
+	Random                        	0.00
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 996, GamesPerMatchup: 83
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	1.000	BasicMCTS
+	0.000	Random
+	0.000	RMHC
+	0.000	SuperOSLA
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	0.000	
+0.962	0.000	0.018	0.020	
+1.000	0.000	0.000	0.000	
+1.000	0.000	0.000	0.000	
+B matrix for alpha = 10.0
+4.924	0.962	1.017	1.019	
+0.962	0.925	0.961	0.961	
+1.017	0.961	1.000	1.000	
+1.019	0.961	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		RMHC
+		SuperOSLA
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	1.000	BasicMCTS
+	0.000	Random
+	0.000	RMHC
+	0.000	SuperOSLA
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	0.000	
+0.962	0.000	0.018	0.020	
+1.000	0.000	0.000	0.000	
+1.000	0.000	0.000	0.000	
+B matrix for alpha = 10.0
+4.924	0.962	1.017	1.019	
+0.962	0.925	0.961	0.961	
+1.017	0.961	1.000	1.000	
+1.019	0.961	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		RMHC
+		SuperOSLA
+
+BasicMCTS got 498.00 points. BasicMCTS won 50.0% of the 996 games of the tournament. BasicMCTS won 100.0% of the 498 games it played during the tournament.
+BasicMCTS won 100.0% of the 166 games against Random.
+BasicMCTS won 100.0% of the 166 games against RMHC.
+BasicMCTS won 100.0% of the 166 games against SuperOSLA.
+
+Random got 65.00 points. Random won 6.5% of the 996 games of the tournament. Random won 13.1% of the 498 games it played during the tournament.
+Random won 0.0% of the 166 games against BasicMCTS.
+Random won 19.9% of the 166 games against RMHC.
+Random won 19.3% of the 166 games against SuperOSLA.
+
+RMHC got 215.00 points. RMHC won 21.6% of the 996 games of the tournament. RMHC won 43.2% of the 498 games it played during the tournament.
+RMHC won 0.0% of the 166 games against BasicMCTS.
+RMHC won 80.1% of the 166 games against Random.
+RMHC won 49.4% of the 166 games against SuperOSLA.
+
+SuperOSLA got 218.00 points. SuperOSLA won 21.9% of the 996 games of the tournament. SuperOSLA won 43.8% of the 498 games it played during the tournament.
+SuperOSLA won 0.0% of the 166 games against BasicMCTS.
+SuperOSLA won 80.7% of the 166 games against Random.
+SuperOSLA won 50.6% of the 166 games against RMHC.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+SuperOSLA: Win rate 0.44 +/- 0.022	Mean Ordinal 1.56 +/- 0.02
+RMHC: Win rate 0.43 +/- 0.022	Mean Ordinal 1.57 +/- 0.02
+Random: Win rate 0.13 +/- 0.015	Mean Ordinal 1.87 +/- 0.02
+
+Alpha-rank by Win Rate
+	BasicMCTS                     	1.00
+	SuperOSLA                     	0.00
+	RMHC                          	0.00
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	BasicMCTS                     	1.00
+	SuperOSLA                     	0.00
+	RMHC                          	0.00
+	Random                        	0.00
+
