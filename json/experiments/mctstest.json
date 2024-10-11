@@ -1,0 +1,9 @@
+{
+  "game": "Can't Stop",
+  "nPlayers": 2,
+  "mode": "exhaustive",
+  "matchups": 100,
+  "listener": "json/listeners/basiclistener.json",
+  "destDir": "outputdir4",
+  "playerDirectory": "json/players/MCTSToTheTest"
+}

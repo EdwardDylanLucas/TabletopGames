@@ -1,5 +1,5 @@
 {
-  "game" : "Connect4",
+  "game" : "TicTacToe",
   "nPlayers" : 2,
   "mode" : "exhaustive",
   "matchups" : 1000,

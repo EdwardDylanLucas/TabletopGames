@@ -1,0 +1,44 @@
+Game: TicTacToe, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 960.00 points. BasicMCTS won 93.4% of the 1000 games of the tournament. BasicMCTS won 93.4% of the 1000 games it played during the tournament.
+BasicMCTS won 93.4% of the 1000 games against Random.
+
+Random got 40.00 points. Random won 1.4% of the 1000 games of the tournament. Random won 1.4% of the 1000 games it played during the tournament.
+Random won 1.4% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.96 +/- 0.005	Mean Ordinal 1.01 +/- 0.00
+Random: Win rate 0.04 +/- 0.005	Mean Ordinal 1.93 +/- 0.01
+
+Game: TicTacToe, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 956.50 points. BasicMCTS won 92.9% of the 1000 games of the tournament. BasicMCTS won 92.9% of the 1000 games it played during the tournament.
+BasicMCTS won 92.9% of the 1000 games against Random.
+
+Random got 43.50 points. Random won 1.6% of the 1000 games of the tournament. Random won 1.6% of the 1000 games it played during the tournament.
+Random won 1.6% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.96 +/- 0.005	Mean Ordinal 1.02 +/- 0.00
+Random: Win rate 0.04 +/- 0.005	Mean Ordinal 1.93 +/- 0.01
+
+Game: TicTacToe, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 964.00 points. BasicMCTS won 93.9% of the 1000 games of the tournament. BasicMCTS won 93.9% of the 1000 games it played during the tournament.
+BasicMCTS won 93.9% of the 1000 games against Random.
+
+Random got 36.00 points. Random won 1.1% of the 1000 games of the tournament. Random won 1.1% of the 1000 games it played during the tournament.
+Random won 1.1% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.96 +/- 0.005	Mean Ordinal 1.01 +/- 0.00
+Random: Win rate 0.04 +/- 0.005	Mean Ordinal 1.94 +/- 0.01
+
+Game: TicTacToe, Players: 2, Mode: EXHAUSTIVE, TotalGames: 1000, GamesPerMatchup: 500
+BasicMCTS got 967.00 points. BasicMCTS won 94.2% of the 1000 games of the tournament. BasicMCTS won 94.2% of the 1000 games it played during the tournament.
+BasicMCTS won 94.2% of the 1000 games against Random.
+
+Random got 33.00 points. Random won 0.8% of the 1000 games of the tournament. Random won 0.8% of the 1000 games it played during the tournament.
+Random won 0.8% of the 1000 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.97 +/- 0.004	Mean Ordinal 1.01 +/- 0.00
+Random: Win rate 0.03 +/- 0.004	Mean Ordinal 1.94 +/- 0.01
+
