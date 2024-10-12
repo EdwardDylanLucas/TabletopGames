@@ -16,7 +16,10 @@ public class ScoreHeuristic implements IStateHeuristic {
      */
     @Override
     public double evaluateState(AbstractGameState gs, int playerId) {
+//        if (true)
+//            throw new RuntimeException("Should not be called");
         double score = gs.getGameScore(playerId);
+//        System.out.println("evaluateStateScore: " + score);
         if (gs.getPlayerResults()[playerId] == CoreConstants.GameResult.WIN_GAME)
             return score * 1.5;
         if (gs.getPlayerResults()[playerId] == CoreConstants.GameResult.LOSE_GAME)

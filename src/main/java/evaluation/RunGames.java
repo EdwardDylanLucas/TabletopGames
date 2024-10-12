@@ -78,15 +78,17 @@ public class RunGames implements IGameRunner {
         // 2. Setup
 
         LinkedList<AbstractPlayer> agents = new LinkedList<>();
+        System.out.println("Player Directory: " + runGames.config.get(playerDirectory));
         if (!runGames.config.get(playerDirectory).equals("")) {
             agents.addAll(PlayerFactory.createPlayers((String) runGames.config.get(playerDirectory)));
         } else {
        //     agents.add(new MCTSPlayer());
-            agents.add(new BasicMCTSPlayer());
+//            agents.add(new BasicMCTSPlayer());
             agents.add(new RandomPlayer());
             agents.add(new RMHCPlayer());
             agents.add(new OSLAPlayer());
         }
+        System.out.println("Agents: " + agents);
         runGames.agents = agents;
 
         if (!runGames.config.get(focusPlayer).equals("")) {

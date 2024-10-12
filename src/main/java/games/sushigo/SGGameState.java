@@ -198,6 +198,7 @@ public class SGGameState extends AbstractGameState {
 
     @Override
     public double getGameScore(int playerId) {
+//        System.out.println("Player " + playerId + " score: " + playerScore[playerId].getValue());
         return playerScore[playerId].getValue();
     }
 

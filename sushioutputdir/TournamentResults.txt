@@ -1,0 +1,133 @@
+Starting again!!!
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 10
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.000	BasicMCTS
+	0.000	rmhc
+	0.000	Random
+	1.000	mcts
+	0.000	osla
+	0.000	rhea
+
+Transition matrix for alpha = 10.0
+0.000	0.000	0.000	1.000	0.000	0.000	
+0.333	0.000	0.001	0.333	0.000	0.333	
+0.155	0.000	0.000	0.422	0.000	0.422	
+0.000	0.000	0.000	1.000	0.000	0.000	
+0.422	0.000	0.000	0.422	0.000	0.155	
+0.000	0.000	0.000	1.000	0.000	0.000	
+B matrix for alpha = 10.0
+1.312	0.333	0.423	1.354	0.422	1.242	
+0.333	0.333	0.333	0.333	0.333	0.333	
+0.423	0.333	0.381	0.423	0.310	0.423	
+1.354	0.333	0.423	4.465	0.422	1.355	
+0.422	0.333	0.310	0.422	0.381	0.422	
+1.242	0.333	0.423	1.355	0.422	1.313	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for BasicMCTS
+		BasicMCTS
+		rhea
+	Cluster for rmhc
+		rmhc
+		Random
+		osla
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.000	BasicMCTS
+	0.000	rmhc
+	0.000	Random
+	1.000	mcts
+	0.000	osla
+	0.000	rhea
+
+Transition matrix for alpha = 10.0
+0.000	0.000	0.000	1.000	0.000	0.000	
+0.333	0.000	0.001	0.333	0.000	0.333	
+0.155	0.000	0.000	0.422	0.000	0.422	
+0.000	0.000	0.000	1.000	0.000	0.000	
+0.422	0.000	0.000	0.422	0.000	0.155	
+0.000	0.000	0.000	1.000	0.000	0.000	
+B matrix for alpha = 10.0
+1.312	0.333	0.423	1.354	0.422	1.242	
+0.333	0.333	0.333	0.333	0.333	0.333	
+0.423	0.333	0.381	0.423	0.310	0.423	
+1.354	0.333	0.423	4.465	0.422	1.355	
+0.422	0.333	0.310	0.422	0.381	0.422	
+1.242	0.333	0.423	1.355	0.422	1.313	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for BasicMCTS
+		BasicMCTS
+		rhea
+	Cluster for rmhc
+		rmhc
+		Random
+		osla
+
+BasicMCTS got 69.00 points. BasicMCTS won 23.0% of the 300 games of the tournament. BasicMCTS won 69.0% of the 100 games it played during the tournament.
+BasicMCTS won 100.0% of the 20 games against rmhc.
+BasicMCTS won 95.0% of the 20 games against Random.
+BasicMCTS won 5.0% of the 20 games against mcts.
+BasicMCTS won 100.0% of the 20 games against osla.
+BasicMCTS won 45.0% of the 20 games against rhea.
+
+rmhc got 13.00 points. rmhc won 4.3% of the 300 games of the tournament. rmhc won 13.0% of the 100 games it played during the tournament.
+rmhc won 0.0% of the 20 games against BasicMCTS.
+rmhc won 30.0% of the 20 games against Random.
+rmhc won 0.0% of the 20 games against mcts.
+rmhc won 35.0% of the 20 games against osla.
+rmhc won 0.0% of the 20 games against rhea.
+
+Random got 27.00 points. Random won 9.0% of the 300 games of the tournament. Random won 27.0% of the 100 games it played during the tournament.
+Random won 5.0% of the 20 games against BasicMCTS.
+Random won 70.0% of the 20 games against rmhc.
+Random won 0.0% of the 20 games against mcts.
+Random won 60.0% of the 20 games against osla.
+Random won 0.0% of the 20 games against rhea.
+
+mcts got 99.00 points. mcts won 33.0% of the 300 games of the tournament. mcts won 99.0% of the 100 games it played during the tournament.
+mcts won 95.0% of the 20 games against BasicMCTS.
+mcts won 100.0% of the 20 games against rmhc.
+mcts won 100.0% of the 20 games against Random.
+mcts won 100.0% of the 20 games against osla.
+mcts won 100.0% of the 20 games against rhea.
+
+osla got 22.00 points. osla won 7.3% of the 300 games of the tournament. osla won 22.0% of the 100 games it played during the tournament.
+osla won 0.0% of the 20 games against BasicMCTS.
+osla won 65.0% of the 20 games against rmhc.
+osla won 40.0% of the 20 games against Random.
+osla won 0.0% of the 20 games against mcts.
+osla won 5.0% of the 20 games against rhea.
+
+rhea got 70.00 points. rhea won 23.3% of the 300 games of the tournament. rhea won 70.0% of the 100 games it played during the tournament.
+rhea won 55.0% of the 20 games against BasicMCTS.
+rhea won 100.0% of the 20 games against rmhc.
+rhea won 100.0% of the 20 games against Random.
+rhea won 0.0% of the 20 games against mcts.
+rhea won 95.0% of the 20 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+mcts: Win rate 0.99 +/- 0.010	Mean Ordinal 1.01 +/- 0.01
+rhea: Win rate 0.70 +/- 0.046	Mean Ordinal 1.30 +/- 0.05
+BasicMCTS: Win rate 0.69 +/- 0.046	Mean Ordinal 1.31 +/- 0.05
+Random: Win rate 0.27 +/- 0.044	Mean Ordinal 1.73 +/- 0.04
+osla: Win rate 0.22 +/- 0.041	Mean Ordinal 1.78 +/- 0.04
+rmhc: Win rate 0.13 +/- 0.034	Mean Ordinal 1.87 +/- 0.03
+
+Alpha-rank by Win Rate
+	mcts                          	1.00
+	BasicMCTS                     	0.00
+	rhea                          	0.00
+	Random                        	0.00
+	osla                          	0.00
+	rmhc                          	0.00
+
+Alpha-rank by Ordinal Position
+	mcts                          	1.00
+	BasicMCTS                     	0.00
+	rhea                          	0.00
+	Random                        	0.00
+	osla                          	0.00
+	rmhc                          	0.00
+

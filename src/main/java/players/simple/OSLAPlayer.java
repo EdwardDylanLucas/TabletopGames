@@ -47,6 +47,7 @@ public class OSLAPlayer extends AbstractPlayer {
             getForwardModel().next(gsCopy, action);
 
             if (heuristic != null) {
+//                System.out.println("OSLAPlayer Heuristic: " + heuristic.evaluateState(gsCopy, playerID));
                 valState[actionIndex] = heuristic.evaluateState(gsCopy, playerID);
             } else {
                 valState[actionIndex] = gsCopy.getHeuristicScore(playerID);
@@ -58,8 +59,10 @@ public class OSLAPlayer extends AbstractPlayer {
                 maxQ = Q;
                 bestAction = action;
             }
+//            System.out.println("OSLAPlayer: " + action + " : " + Q);
         }
-
+//        System.out.println("OSLAPlayer: " + bestAction + " : " + maxQ);
+//        System.out.println("Heuristic: " + heuristic + " : " + heuristic.getClass().getSimpleName());
         return bestAction;
     }
 

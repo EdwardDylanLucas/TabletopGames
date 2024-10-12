@@ -1,0 +1,11 @@
+{
+  "game": "SushiGo",
+  "verbose": true,
+  "mode": "exhaustive",
+  "playerDirectory": "json/players/sushiplayers",
+  "nPlayers": 2,
+  "matchups": 300,
+  "destDir": "sushioutputdir",
+  "output": "sushioutputdir/Tournament.log",
+  "listener": "json/listeners/basiclistener.json"
+}
