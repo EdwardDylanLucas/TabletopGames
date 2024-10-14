@@ -131,3 +131,371 @@ Alpha-rank by Ordinal Position
 	osla                          	0.00
 	rmhc                          	0.00
 
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 30, GamesPerMatchup: 5
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.806	actionsushi
+	0.096	Random
+	0.098	osla
+
+Transition matrix for alpha = 10.0
+0.867	0.117	0.016	
+0.117	0.016	0.867	
+0.982	0.000	0.018	
+B matrix for alpha = 10.0
+2.494	0.221	0.984	
+0.221	0.779	0.146	
+0.984	0.146	1.716	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.806	actionsushi
+	0.096	Random
+	0.098	osla
+
+Transition matrix for alpha = 10.0
+0.867	0.117	0.016	
+0.117	0.016	0.867	
+0.982	0.000	0.018	
+B matrix for alpha = 10.0
+2.494	0.221	0.984	
+0.221	0.779	0.146	
+0.984	0.146	1.716	
+actionsushi got 13.00 points. actionsushi won 43.3% of the 30 games of the tournament. actionsushi won 65.0% of the 20 games it played during the tournament.
+actionsushi won 60.0% of the 10 games against Random.
+actionsushi won 70.0% of the 10 games against osla.
+
+Random got 7.00 points. Random won 23.3% of the 30 games of the tournament. Random won 35.0% of the 20 games it played during the tournament.
+Random won 40.0% of the 10 games against actionsushi.
+Random won 30.0% of the 10 games against osla.
+
+osla got 10.00 points. osla won 33.3% of the 30 games of the tournament. osla won 50.0% of the 20 games it played during the tournament.
+osla won 30.0% of the 10 games against actionsushi.
+osla won 70.0% of the 10 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+actionsushi: Win rate 0.65 +/- 0.107	Mean Ordinal 1.35 +/- 0.11
+osla: Win rate 0.50 +/- 0.112	Mean Ordinal 1.50 +/- 0.11
+Random: Win rate 0.35 +/- 0.107	Mean Ordinal 1.65 +/- 0.11
+
+Alpha-rank by Win Rate
+	actionsushi                   	0.81
+	osla                          	0.10
+	Random                        	0.10
+
+Alpha-rank by Ordinal Position
+	actionsushi                   	0.81
+	osla                          	0.10
+	Random                        	0.10
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 84, GamesPerMatchup: 2
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.000	BasicMCTS
+	0.000	rmhc
+	0.000	actionsushi
+	0.000	Random
+	1.000	mcts
+	0.000	osla
+	0.000	rhea
+
+Transition matrix for alpha = 10.0
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.333	0.000	0.000	0.000	0.333	0.000	0.333	
+0.333	0.000	0.000	0.000	0.333	0.002	0.333	
+0.333	0.000	0.002	0.000	0.333	0.000	0.333	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.333	0.002	0.000	0.000	0.333	0.000	0.333	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+B matrix for alpha = 10.0
+1.443	0.334	0.333	0.333	1.443	0.333	1.443	
+0.334	0.333	0.333	0.333	0.334	0.333	0.334	
+0.333	0.333	0.332	0.332	0.333	0.332	0.333	
+0.333	0.333	0.332	0.332	0.333	0.332	0.333	
+1.443	0.334	0.333	0.333	4.441	0.333	1.443	
+0.333	0.333	0.332	0.332	0.333	0.332	0.333	
+1.443	0.334	0.333	0.333	1.443	0.333	1.443	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for BasicMCTS
+		BasicMCTS
+		rhea
+	Cluster for rmhc
+		rmhc
+		actionsushi
+		Random
+		osla
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.000	BasicMCTS
+	0.000	rmhc
+	0.000	actionsushi
+	0.000	Random
+	1.000	mcts
+	0.000	osla
+	0.000	rhea
+
+Transition matrix for alpha = 10.0
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.333	0.000	0.000	0.000	0.333	0.000	0.333	
+0.333	0.000	0.000	0.000	0.333	0.002	0.333	
+0.333	0.000	0.002	0.000	0.333	0.000	0.333	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.333	0.002	0.000	0.000	0.333	0.000	0.333	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+B matrix for alpha = 10.0
+1.443	0.334	0.333	0.333	1.443	0.333	1.443	
+0.334	0.333	0.333	0.333	0.334	0.333	0.334	
+0.333	0.333	0.332	0.332	0.333	0.332	0.333	
+0.333	0.333	0.332	0.332	0.333	0.332	0.333	
+1.443	0.334	0.333	0.333	4.441	0.333	1.443	
+0.333	0.333	0.332	0.332	0.333	0.332	0.333	
+1.443	0.334	0.333	0.333	1.443	0.333	1.443	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for BasicMCTS
+		BasicMCTS
+		rhea
+	Cluster for rmhc
+		rmhc
+		actionsushi
+		Random
+		osla
+
+BasicMCTS got 18.00 points. BasicMCTS won 21.4% of the 84 games of the tournament. BasicMCTS won 75.0% of the 24 games it played during the tournament.
+BasicMCTS won 100.0% of the 4 games against rmhc.
+BasicMCTS won 100.0% of the 4 games against actionsushi.
+BasicMCTS won 100.0% of the 4 games against Random.
+BasicMCTS won 0.0% of the 4 games against mcts.
+BasicMCTS won 100.0% of the 4 games against osla.
+BasicMCTS won 50.0% of the 4 games against rhea.
+
+rmhc got 7.00 points. rmhc won 8.3% of the 84 games of the tournament. rmhc won 29.2% of the 24 games it played during the tournament.
+rmhc won 0.0% of the 4 games against BasicMCTS.
+rmhc won 50.0% of the 4 games against actionsushi.
+rmhc won 50.0% of the 4 games against Random.
+rmhc won 0.0% of the 4 games against mcts.
+rmhc won 75.0% of the 4 games against osla.
+rmhc won 0.0% of the 4 games against rhea.
+
+actionsushi got 6.00 points. actionsushi won 7.1% of the 84 games of the tournament. actionsushi won 25.0% of the 24 games it played during the tournament.
+actionsushi won 0.0% of the 4 games against BasicMCTS.
+actionsushi won 50.0% of the 4 games against rmhc.
+actionsushi won 75.0% of the 4 games against Random.
+actionsushi won 0.0% of the 4 games against mcts.
+actionsushi won 25.0% of the 4 games against osla.
+actionsushi won 0.0% of the 4 games against rhea.
+
+Random got 5.00 points. Random won 6.0% of the 84 games of the tournament. Random won 20.8% of the 24 games it played during the tournament.
+Random won 0.0% of the 4 games against BasicMCTS.
+Random won 50.0% of the 4 games against rmhc.
+Random won 25.0% of the 4 games against actionsushi.
+Random won 0.0% of the 4 games against mcts.
+Random won 50.0% of the 4 games against osla.
+Random won 0.0% of the 4 games against rhea.
+
+mcts got 24.00 points. mcts won 28.6% of the 84 games of the tournament. mcts won 100.0% of the 24 games it played during the tournament.
+mcts won 100.0% of the 4 games against BasicMCTS.
+mcts won 100.0% of the 4 games against rmhc.
+mcts won 100.0% of the 4 games against actionsushi.
+mcts won 100.0% of the 4 games against Random.
+mcts won 100.0% of the 4 games against osla.
+mcts won 100.0% of the 4 games against rhea.
+
+osla got 6.00 points. osla won 7.1% of the 84 games of the tournament. osla won 25.0% of the 24 games it played during the tournament.
+osla won 0.0% of the 4 games against BasicMCTS.
+osla won 25.0% of the 4 games against rmhc.
+osla won 75.0% of the 4 games against actionsushi.
+osla won 50.0% of the 4 games against Random.
+osla won 0.0% of the 4 games against mcts.
+osla won 0.0% of the 4 games against rhea.
+
+rhea got 18.00 points. rhea won 21.4% of the 84 games of the tournament. rhea won 75.0% of the 24 games it played during the tournament.
+rhea won 50.0% of the 4 games against BasicMCTS.
+rhea won 100.0% of the 4 games against rmhc.
+rhea won 100.0% of the 4 games against actionsushi.
+rhea won 100.0% of the 4 games against Random.
+rhea won 0.0% of the 4 games against mcts.
+rhea won 100.0% of the 4 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+mcts: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+BasicMCTS: Win rate 0.75 +/- 0.088	Mean Ordinal 1.25 +/- 0.09
+rhea: Win rate 0.75 +/- 0.088	Mean Ordinal 1.25 +/- 0.09
+rmhc: Win rate 0.29 +/- 0.093	Mean Ordinal 1.71 +/- 0.09
+actionsushi: Win rate 0.25 +/- 0.088	Mean Ordinal 1.75 +/- 0.09
+osla: Win rate 0.25 +/- 0.088	Mean Ordinal 1.75 +/- 0.09
+Random: Win rate 0.21 +/- 0.083	Mean Ordinal 1.79 +/- 0.08
+
+Alpha-rank by Win Rate
+	mcts                          	1.00
+	rhea                          	0.00
+	BasicMCTS                     	0.00
+	rmhc                          	0.00
+	osla                          	0.00
+	actionsushi                   	0.00
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	mcts                          	1.00
+	rhea                          	0.00
+	BasicMCTS                     	0.00
+	rmhc                          	0.00
+	osla                          	0.00
+	actionsushi                   	0.00
+	Random                        	0.00
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 840, GamesPerMatchup: 20
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.000	BasicMCTS
+	0.000	rmhc
+	0.000	actionsushi
+	0.000	Random
+	1.000	mcts
+	0.000	osla
+	0.000	rhea
+
+Transition matrix for alpha = 10.0
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.063	0.000	0.000	0.000	0.468	0.000	0.468	
+0.090	0.000	0.000	0.000	0.665	0.000	0.245	
+0.274	0.000	0.000	0.000	0.452	0.000	0.274	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.154	0.000	0.001	0.000	0.691	0.000	0.154	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+B matrix for alpha = 10.0
+1.110	0.468	0.665	0.452	1.319	0.691	1.150	
+0.468	0.442	0.432	0.357	0.468	0.405	0.468	
+0.665	0.432	0.510	0.392	0.666	0.511	0.665	
+0.452	0.357	0.392	0.354	0.452	0.396	0.452	
+1.319	0.468	0.666	0.452	5.340	0.691	1.612	
+0.691	0.405	0.511	0.396	0.691	0.525	0.691	
+1.150	0.468	0.665	0.452	1.612	0.691	1.377	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for BasicMCTS
+		BasicMCTS
+		rhea
+	Cluster for rmhc
+		rmhc
+		actionsushi
+		Random
+		osla
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.000	BasicMCTS
+	0.000	rmhc
+	0.000	actionsushi
+	0.000	Random
+	1.000	mcts
+	0.000	osla
+	0.000	rhea
+
+Transition matrix for alpha = 10.0
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.063	0.000	0.000	0.000	0.468	0.000	0.468	
+0.090	0.000	0.000	0.000	0.665	0.000	0.245	
+0.274	0.000	0.000	0.000	0.452	0.000	0.274	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+0.154	0.000	0.001	0.000	0.691	0.000	0.154	
+0.000	0.000	0.000	0.000	1.000	0.000	0.000	
+B matrix for alpha = 10.0
+1.110	0.468	0.665	0.452	1.319	0.691	1.150	
+0.468	0.442	0.432	0.357	0.468	0.405	0.468	
+0.665	0.432	0.510	0.392	0.666	0.511	0.665	
+0.452	0.357	0.392	0.354	0.452	0.396	0.452	
+1.319	0.468	0.666	0.452	5.340	0.691	1.612	
+0.691	0.405	0.511	0.396	0.691	0.525	0.691	
+1.150	0.468	0.665	0.452	1.612	0.691	1.377	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for BasicMCTS
+		BasicMCTS
+		rhea
+	Cluster for rmhc
+		rmhc
+		actionsushi
+		Random
+		osla
+
+BasicMCTS got 167.00 points. BasicMCTS won 19.9% of the 840 games of the tournament. BasicMCTS won 69.6% of the 240 games it played during the tournament.
+BasicMCTS won 90.0% of the 40 games against rmhc.
+BasicMCTS won 90.0% of the 40 games against actionsushi.
+BasicMCTS won 97.5% of the 40 games against Random.
+BasicMCTS won 2.5% of the 40 games against mcts.
+BasicMCTS won 92.5% of the 40 games against osla.
+BasicMCTS won 45.0% of the 40 games against rhea.
+
+rmhc got 57.50 points. rmhc won 6.8% of the 840 games of the tournament. rmhc won 23.8% of the 240 games it played during the tournament.
+rmhc won 10.0% of the 40 games against BasicMCTS.
+rmhc won 50.0% of the 40 games against actionsushi.
+rmhc won 47.5% of the 40 games against Random.
+rmhc won 0.0% of the 40 games against mcts.
+rmhc won 35.0% of the 40 games against osla.
+rmhc won 0.0% of the 40 games against rhea.
+
+actionsushi got 78.00 points. actionsushi won 9.3% of the 840 games of the tournament. actionsushi won 32.5% of the 240 games it played during the tournament.
+actionsushi won 10.0% of the 40 games against BasicMCTS.
+actionsushi won 50.0% of the 40 games against rmhc.
+actionsushi won 65.0% of the 40 games against Random.
+actionsushi won 0.0% of the 40 games against mcts.
+actionsushi won 65.0% of the 40 games against osla.
+actionsushi won 5.0% of the 40 games against rhea.
+
+Random got 60.00 points. Random won 7.0% of the 840 games of the tournament. Random won 24.6% of the 240 games it played during the tournament.
+Random won 2.5% of the 40 games against BasicMCTS.
+Random won 50.0% of the 40 games against rmhc.
+Random won 35.0% of the 40 games against actionsushi.
+Random won 0.0% of the 40 games against mcts.
+Random won 57.5% of the 40 games against osla.
+Random won 2.5% of the 40 games against rhea.
+
+mcts got 237.00 points. mcts won 28.2% of the 840 games of the tournament. mcts won 98.8% of the 240 games it played during the tournament.
+mcts won 97.5% of the 40 games against BasicMCTS.
+mcts won 100.0% of the 40 games against rmhc.
+mcts won 100.0% of the 40 games against actionsushi.
+mcts won 100.0% of the 40 games against Random.
+mcts won 100.0% of the 40 games against osla.
+mcts won 95.0% of the 40 games against rhea.
+
+osla got 62.50 points. osla won 7.4% of the 840 games of the tournament. osla won 25.8% of the 240 games it played during the tournament.
+osla won 7.5% of the 40 games against BasicMCTS.
+osla won 65.0% of the 40 games against rmhc.
+osla won 35.0% of the 40 games against actionsushi.
+osla won 40.0% of the 40 games against Random.
+osla won 0.0% of the 40 games against mcts.
+osla won 7.5% of the 40 games against rhea.
+
+rhea got 178.00 points. rhea won 21.2% of the 840 games of the tournament. rhea won 74.2% of the 240 games it played during the tournament.
+rhea won 55.0% of the 40 games against BasicMCTS.
+rhea won 100.0% of the 40 games against rmhc.
+rhea won 95.0% of the 40 games against actionsushi.
+rhea won 97.5% of the 40 games against Random.
+rhea won 5.0% of the 40 games against mcts.
+rhea won 92.5% of the 40 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+mcts: Win rate 0.99 +/- 0.007	Mean Ordinal 1.01 +/- 0.01
+rhea: Win rate 0.74 +/- 0.028	Mean Ordinal 1.26 +/- 0.03
+BasicMCTS: Win rate 0.70 +/- 0.030	Mean Ordinal 1.30 +/- 0.03
+actionsushi: Win rate 0.33 +/- 0.030	Mean Ordinal 1.68 +/- 0.03
+osla: Win rate 0.26 +/- 0.028	Mean Ordinal 1.74 +/- 0.03
+Random: Win rate 0.25 +/- 0.028	Mean Ordinal 1.75 +/- 0.03
+rmhc: Win rate 0.24 +/- 0.027	Mean Ordinal 1.76 +/- 0.03
+
+Alpha-rank by Win Rate
+	mcts                          	1.00
+	rhea                          	0.00
+	BasicMCTS                     	0.00
+	actionsushi                   	0.00
+	osla                          	0.00
+	Random                        	0.00
+	rmhc                          	0.00
+
+Alpha-rank by Ordinal Position
+	mcts                          	1.00
+	rhea                          	0.00
+	BasicMCTS                     	0.00
+	actionsushi                   	0.00
+	osla                          	0.00
+	Random                        	0.00
+	rmhc                          	0.00
+

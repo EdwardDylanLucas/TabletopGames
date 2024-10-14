@@ -20,6 +20,7 @@ import players.mcts.MCTSPlayer;
 import players.mcts.MCTSPlayer;
 import players.rmhc.RMHCParams;
 import players.rmhc.RMHCPlayer;
+import players.simple.ActionValueSushiGoPlayer;
 import players.simple.FirstActionPlayer;
 import players.simple.OSLAPlayer;
 import players.simple.RandomPlayer;
@@ -829,15 +830,15 @@ public class Game {
      */
     public static void main(String[] args) {
         String gameType = Utils.getArg(args, "game", "SushiGo");
-        boolean useGUI = Utils.getArg(args, "gui", true);
+        boolean useGUI = Utils.getArg(args, "gui", false);
         int turnPause = Utils.getArg(args, "turnPause", 100);
         long seed = Utils.getArg(args, "seed", System.currentTimeMillis());
         ActionController ac = new ActionController();
 
         /* Set up players for the game */
         ArrayList<AbstractPlayer> players = new ArrayList<>();
-        players.add(new MCTSPlayer());
-        players.add(new BasicMCTSPlayer());
+        players.add(new ActionValueSushiGoPlayer());
+        players.add(new RandomPlayer());
 
 //        RMHCParams params = new RMHCParams();
 //        params.horizon = 15;
