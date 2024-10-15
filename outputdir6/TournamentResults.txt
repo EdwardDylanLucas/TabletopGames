@@ -1,0 +1,33 @@
+Game: CantStop, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+rmhc got 47.00 points. rmhc won 47.0% of the 100 games of the tournament. rmhc won 47.0% of the 100 games it played during the tournament.
+rmhc won 47.0% of the 100 games against rhea.
+
+rhea got 53.00 points. rhea won 53.0% of the 100 games of the tournament. rhea won 53.0% of the 100 games it played during the tournament.
+rhea won 53.0% of the 100 games against rmhc.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0.53 +/- 0.050	Mean Ordinal 1.47 +/- 0.05
+rmhc: Win rate 0.47 +/- 0.050	Mean Ordinal 1.53 +/- 0.05
+
+Game: CantStop, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+rmhc got 27.00 points. rmhc won 27.0% of the 100 games of the tournament. rmhc won 27.0% of the 100 games it played during the tournament.
+rmhc won 27.0% of the 100 games against rhea.
+
+rhea got 73.00 points. rhea won 73.0% of the 100 games of the tournament. rhea won 73.0% of the 100 games it played during the tournament.
+rhea won 73.0% of the 100 games against rmhc.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0.73 +/- 0.044	Mean Ordinal 1.27 +/- 0.04
+rmhc: Win rate 0.27 +/- 0.044	Mean Ordinal 1.73 +/- 0.04
+
+Game: CantStop, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+rmhc got 41.00 points. rmhc won 41.0% of the 100 games of the tournament. rmhc won 41.0% of the 100 games it played during the tournament.
+rmhc won 41.0% of the 100 games against rhea.
+
+rhea got 59.00 points. rhea won 59.0% of the 100 games of the tournament. rhea won 59.0% of the 100 games it played during the tournament.
+rhea won 59.0% of the 100 games against rmhc.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0.59 +/- 0.049	Mean Ordinal 1.41 +/- 0.05
+rmhc: Win rate 0.41 +/- 0.049	Mean Ordinal 1.59 +/- 0.05
+

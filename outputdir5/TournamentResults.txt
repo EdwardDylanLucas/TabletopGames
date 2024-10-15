@@ -1,0 +1,22 @@
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+rmhc got 80.00 points. rmhc won 80.0% of the 100 games of the tournament. rmhc won 80.0% of the 100 games it played during the tournament.
+rmhc won 80.0% of the 100 games against Random.
+
+Random got 20.00 points. Random won 20.0% of the 100 games of the tournament. Random won 20.0% of the 100 games it played during the tournament.
+Random won 20.0% of the 100 games against rmhc.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rmhc: Win rate 0.80 +/- 0.040	Mean Ordinal 1.20 +/- 0.04
+Random: Win rate 0.20 +/- 0.040	Mean Ordinal 1.80 +/- 0.04
+
+Game: Connect4, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+rmhc got 83.00 points. rmhc won 83.0% of the 100 games of the tournament. rmhc won 83.0% of the 100 games it played during the tournament.
+rmhc won 83.0% of the 100 games against Random.
+
+Random got 17.00 points. Random won 17.0% of the 100 games of the tournament. Random won 17.0% of the 100 games it played during the tournament.
+Random won 17.0% of the 100 games against rmhc.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rmhc: Win rate 0.83 +/- 0.038	Mean Ordinal 1.17 +/- 0.04
+Random: Win rate 0.17 +/- 0.038	Mean Ordinal 1.83 +/- 0.04
+
