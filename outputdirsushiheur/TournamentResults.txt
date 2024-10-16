@@ -1,0 +1,941 @@
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+BasicMCTS got 90.00 points. BasicMCTS won 90.0% of the 100 games of the tournament. BasicMCTS won 90.0% of the 100 games it played during the tournament.
+BasicMCTS won 90.0% of the 100 games against actionsushi.
+
+actionsushi got 10.00 points. actionsushi won 10.0% of the 100 games of the tournament. actionsushi won 10.0% of the 100 games it played during the tournament.
+actionsushi won 10.0% of the 100 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.90 +/- 0.030	Mean Ordinal 1.10 +/- 0.03
+actionsushi: Win rate 0.10 +/- 0.030	Mean Ordinal 1.90 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+BasicMCTS got 48.50 points. BasicMCTS won 48.0% of the 100 games of the tournament. BasicMCTS won 48.0% of the 100 games it played during the tournament.
+BasicMCTS won 48.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 51.50 points. BasicMCTS won 51.0% of the 100 games of the tournament. BasicMCTS won 51.0% of the 100 games it played during the tournament.
+BasicMCTS won 51.0% of the 100 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.52 +/- 0.050	Mean Ordinal 1.48 +/- 0.05
+BasicMCTS: Win rate 0.49 +/- 0.050	Mean Ordinal 1.51 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 0.00 points. Random won 0.0% of the 1 games of the tournament. Random won 0.0% of the 1 games it played during the tournament.
+Random won 0.0% of the 1 games against osla.
+
+osla got 1.00 points. osla won 100.0% of the 1 games of the tournament. osla won 100.0% of the 1 games it played during the tournament.
+osla won 100.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+Random: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 1.00 points. Random won 100.0% of the 1 games of the tournament. Random won 100.0% of the 1 games it played during the tournament.
+Random won 100.0% of the 1 games against osla.
+
+osla got 0.00 points. osla won 0.0% of the 1 games of the tournament. osla won 0.0% of the 1 games it played during the tournament.
+osla won 0.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+osla: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 0.00 points. Random won 0.0% of the 1 games of the tournament. Random won 0.0% of the 1 games it played during the tournament.
+Random won 0.0% of the 1 games against osla.
+
+osla got 1.00 points. osla won 100.0% of the 1 games of the tournament. osla won 100.0% of the 1 games it played during the tournament.
+osla won 100.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+Random: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 1.00 points. Random won 100.0% of the 1 games of the tournament. Random won 100.0% of the 1 games it played during the tournament.
+Random won 100.0% of the 1 games against osla.
+
+osla got 0.00 points. osla won 0.0% of the 1 games of the tournament. osla won 0.0% of the 1 games it played during the tournament.
+osla won 0.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+osla: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 0.00 points. Random won 0.0% of the 1 games of the tournament. Random won 0.0% of the 1 games it played during the tournament.
+Random won 0.0% of the 1 games against osla.
+
+osla got 1.00 points. osla won 100.0% of the 1 games of the tournament. osla won 100.0% of the 1 games it played during the tournament.
+osla won 100.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+Random: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 0.00 points. Random won 0.0% of the 1 games of the tournament. Random won 0.0% of the 1 games it played during the tournament.
+Random won 0.0% of the 1 games against osla.
+
+osla got 1.00 points. osla won 100.0% of the 1 games of the tournament. osla won 100.0% of the 1 games it played during the tournament.
+osla won 100.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+Random: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
+Random got 1.00 points. Random won 100.0% of the 1 games of the tournament. Random won 100.0% of the 1 games it played during the tournament.
+Random won 100.0% of the 1 games against osla.
+
+osla got 0.00 points. osla won 0.0% of the 1 games of the tournament. osla won 0.0% of the 1 games it played during the tournament.
+osla won 0.0% of the 1 games against Random.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+osla: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Random got 32.50 points. Random won 32.0% of the 100 games of the tournament. Random won 32.0% of the 100 games it played during the tournament.
+Random won 32.0% of the 100 games against statesushiosla.
+Random won 32.0% of the 100 games against osla.
+
+statesushiosla got 32.00 points. statesushiosla won 31.0% of the 100 games of the tournament. statesushiosla won 31.0% of the 100 games it played during the tournament.
+statesushiosla won 31.0% of the 100 games against Random.
+statesushiosla won 31.0% of the 100 games against osla.
+
+osla got 35.50 points. osla won 35.0% of the 100 games of the tournament. osla won 35.0% of the 100 games it played during the tournament.
+osla won 35.0% of the 100 games against Random.
+osla won 35.0% of the 100 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 0.36 +/- 0.048	Mean Ordinal 1.92 +/- 0.08
+Random: Win rate 0.33 +/- 0.047	Mean Ordinal 2.00 +/- 0.08
+statesushiosla: Win rate 0.32 +/- 0.046	Mean Ordinal 2.06 +/- 0.08
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.211	Random
+	0.580	statesushiosla
+	0.209	osla
+
+Transition matrix for alpha = 10.0
+0.034	0.964	0.001	
+0.022	0.629	0.349	
+0.909	0.058	0.032	
+B matrix for alpha = 10.0
+1.759	0.708	0.125	
+0.708	1.846	0.291	
+0.125	0.291	0.954	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.211	Random
+	0.580	statesushiosla
+	0.209	osla
+
+Transition matrix for alpha = 10.0
+0.034	0.964	0.001	
+0.022	0.629	0.349	
+0.909	0.058	0.032	
+B matrix for alpha = 10.0
+1.759	0.708	0.125	
+0.708	1.846	0.291	
+0.125	0.291	0.954	
+Random got 33.00 points. Random won 33.0% of the 100 games of the tournament. Random won 50.0% of the 66 games it played during the tournament.
+Random won 33.3% of the 33 games against statesushiosla.
+Random won 66.7% of the 33 games against osla.
+
+statesushiosla got 40.00 points. statesushiosla won 40.0% of the 100 games of the tournament. statesushiosla won 59.7% of the 67 games it played during the tournament.
+statesushiosla won 66.7% of the 33 games against Random.
+statesushiosla won 52.9% of the 34 games against osla.
+
+osla got 27.00 points. osla won 27.0% of the 100 games of the tournament. osla won 40.3% of the 67 games it played during the tournament.
+osla won 33.3% of the 33 games against Random.
+osla won 47.1% of the 34 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+statesushiosla: Win rate 0.60 +/- 0.060	Mean Ordinal 1.40 +/- 0.06
+Random: Win rate 0.50 +/- 0.062	Mean Ordinal 1.50 +/- 0.06
+osla: Win rate 0.40 +/- 0.060	Mean Ordinal 1.60 +/- 0.06
+
+Alpha-rank by Win Rate
+	statesushiosla                	0.58
+	Random                        	0.21
+	osla                          	0.21
+
+Alpha-rank by Ordinal Position
+	statesushiosla                	0.58
+	Random                        	0.21
+	osla                          	0.21
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.448	Random
+	0.253	statesushiosla
+	0.299	osla
+
+Transition matrix for alpha = 10.0
+0.411	0.036	0.552	
+0.903	0.080	0.018	
+0.118	0.723	0.159	
+B matrix for alpha = 10.0
+1.473	0.557	0.425	
+0.557	1.351	0.304	
+0.425	0.304	0.892	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.448	Random
+	0.253	statesushiosla
+	0.299	osla
+
+Transition matrix for alpha = 10.0
+0.411	0.036	0.552	
+0.903	0.080	0.018	
+0.118	0.723	0.159	
+B matrix for alpha = 10.0
+1.473	0.557	0.425	
+0.557	1.351	0.304	
+0.425	0.304	0.892	
+Random got 37.00 points. Random won 36.0% of the 100 games of the tournament. Random won 53.7% of the 67 games it played during the tournament.
+Random won 60.6% of the 33 games against statesushiosla.
+Random won 47.1% of the 34 games against osla.
+
+statesushiosla got 31.50 points. statesushiosla won 31.0% of the 100 games of the tournament. statesushiosla won 47.0% of the 66 games it played during the tournament.
+statesushiosla won 36.4% of the 33 games against Random.
+statesushiosla won 57.6% of the 33 games against osla.
+
+osla got 31.50 points. osla won 31.0% of the 100 games of the tournament. osla won 46.3% of the 67 games it played during the tournament.
+osla won 50.0% of the 34 games against Random.
+osla won 42.4% of the 33 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 0.55 +/- 0.060	Mean Ordinal 1.43 +/- 0.06
+statesushiosla: Win rate 0.48 +/- 0.061	Mean Ordinal 1.52 +/- 0.06
+osla: Win rate 0.47 +/- 0.061	Mean Ordinal 1.52 +/- 0.06
+
+Alpha-rank by Win Rate
+	Random                        	0.45
+	osla                          	0.30
+	statesushiosla                	0.25
+
+Alpha-rank by Ordinal Position
+	Random                        	0.45
+	osla                          	0.30
+	statesushiosla                	0.25
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.315	Random
+	0.436	statesushiosla
+	0.249	osla
+
+Transition matrix for alpha = 10.0
+0.178	0.809	0.013	
+0.085	0.389	0.526	
+0.890	0.047	0.063	
+B matrix for alpha = 10.0
+1.519	0.555	0.300	
+0.555	1.243	0.345	
+0.300	0.345	1.080	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.315	Random
+	0.436	statesushiosla
+	0.249	osla
+
+Transition matrix for alpha = 10.0
+0.178	0.809	0.013	
+0.085	0.389	0.526	
+0.890	0.047	0.063	
+B matrix for alpha = 10.0
+1.519	0.555	0.300	
+0.555	1.243	0.345	
+0.300	0.345	1.080	
+Random got 35.50 points. Random won 35.0% of the 100 games of the tournament. Random won 52.2% of the 67 games it played during the tournament.
+Random won 42.4% of the 33 games against statesushiosla.
+Random won 61.8% of the 34 games against osla.
+
+statesushiosla got 35.00 points. statesushiosla won 35.0% of the 100 games of the tournament. statesushiosla won 53.0% of the 66 games it played during the tournament.
+statesushiosla won 57.6% of the 33 games against Random.
+statesushiosla won 48.5% of the 33 games against osla.
+
+osla got 29.50 points. osla won 29.0% of the 100 games of the tournament. osla won 43.3% of the 67 games it played during the tournament.
+osla won 35.3% of the 34 games against Random.
+osla won 51.5% of the 33 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+statesushiosla: Win rate 0.53 +/- 0.061	Mean Ordinal 1.47 +/- 0.06
+Random: Win rate 0.53 +/- 0.061	Mean Ordinal 1.46 +/- 0.06
+osla: Win rate 0.44 +/- 0.060	Mean Ordinal 1.55 +/- 0.06
+
+Alpha-rank by Win Rate
+	statesushiosla                	0.44
+	Random                        	0.31
+	osla                          	0.25
+
+Alpha-rank by Ordinal Position
+	statesushiosla                	0.44
+	Random                        	0.31
+	osla                          	0.25
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.688	Random
+	0.044	statesushiosla
+	0.268	osla
+
+Transition matrix for alpha = 10.0
+0.700	0.010	0.290	
+0.961	0.014	0.025	
+0.610	0.138	0.252	
+B matrix for alpha = 10.0
+2.360	0.785	0.883	
+0.785	0.943	0.632	
+0.883	0.632	0.603	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.688	Random
+	0.044	statesushiosla
+	0.268	osla
+
+Transition matrix for alpha = 10.0
+0.700	0.010	0.290	
+0.961	0.014	0.025	
+0.610	0.138	0.252	
+B matrix for alpha = 10.0
+2.360	0.785	0.883	
+0.785	0.943	0.632	
+0.883	0.632	0.603	
+Random got 42.00 points. Random won 41.0% of the 100 games of the tournament. Random won 61.2% of the 67 games it played during the tournament.
+Random won 69.7% of the 33 games against statesushiosla.
+Random won 52.9% of the 34 games against osla.
+
+statesushiosla got 25.00 points. statesushiosla won 24.0% of the 100 games of the tournament. statesushiosla won 36.4% of the 66 games it played during the tournament.
+statesushiosla won 27.3% of the 33 games against Random.
+statesushiosla won 45.5% of the 33 games against osla.
+
+osla got 33.00 points. osla won 32.0% of the 100 games of the tournament. osla won 47.8% of the 67 games it played during the tournament.
+osla won 44.1% of the 34 games against Random.
+osla won 51.5% of the 33 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 0.63 +/- 0.058	Mean Ordinal 1.36 +/- 0.06
+osla: Win rate 0.49 +/- 0.060	Mean Ordinal 1.49 +/- 0.06
+statesushiosla: Win rate 0.38 +/- 0.059	Mean Ordinal 1.61 +/- 0.06
+
+Alpha-rank by Win Rate
+	Random                        	0.69
+	osla                          	0.27
+	statesushiosla                	0.04
+
+Alpha-rank by Ordinal Position
+	Random                        	0.69
+	osla                          	0.27
+	statesushiosla                	0.04
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.545	Random
+	0.140	statesushiosla
+	0.315	osla
+
+Transition matrix for alpha = 10.0
+0.554	0.223	0.223	
+0.177	0.071	0.751	
+0.694	0.027	0.280	
+B matrix for alpha = 10.0
+1.226	0.436	0.903	
+0.436	0.657	0.446	
+0.903	0.446	1.253	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.545	Random
+	0.140	statesushiosla
+	0.315	osla
+
+Transition matrix for alpha = 10.0
+0.554	0.223	0.223	
+0.177	0.071	0.751	
+0.694	0.027	0.280	
+B matrix for alpha = 10.0
+1.226	0.436	0.903	
+0.436	0.657	0.446	
+0.903	0.446	1.253	
+Random got 36.00 points. Random won 36.0% of the 100 games of the tournament. Random won 54.5% of the 66 games it played during the tournament.
+Random won 54.5% of the 33 games against statesushiosla.
+Random won 54.5% of the 33 games against osla.
+
+statesushiosla got 28.00 points. statesushiosla won 28.0% of the 100 games of the tournament. statesushiosla won 41.8% of the 67 games it played during the tournament.
+statesushiosla won 45.5% of the 33 games against Random.
+statesushiosla won 38.2% of the 34 games against osla.
+
+osla got 36.00 points. osla won 36.0% of the 100 games of the tournament. osla won 53.7% of the 67 games it played during the tournament.
+osla won 45.5% of the 33 games against Random.
+osla won 61.8% of the 34 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 0.55 +/- 0.061	Mean Ordinal 1.45 +/- 0.06
+osla: Win rate 0.54 +/- 0.061	Mean Ordinal 1.46 +/- 0.06
+statesushiosla: Win rate 0.42 +/- 0.060	Mean Ordinal 1.58 +/- 0.06
+
+Alpha-rank by Win Rate
+	Random                        	0.55
+	osla                          	0.31
+	statesushiosla                	0.14
+
+Alpha-rank by Ordinal Position
+	Random                        	0.55
+	osla                          	0.31
+	statesushiosla                	0.14
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.035	Random
+	0.420	statesushiosla
+	0.544	osla
+
+Transition matrix for alpha = 10.0
+0.025	0.709	0.266	
+0.015	0.418	0.567	
+0.052	0.403	0.545	
+B matrix for alpha = 10.0
+0.577	0.493	0.475	
+0.493	1.336	1.124	
+0.475	1.124	1.151	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for statesushiosla
+		statesushiosla
+		osla
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.035	Random
+	0.420	statesushiosla
+	0.544	osla
+
+Transition matrix for alpha = 10.0
+0.025	0.709	0.266	
+0.015	0.418	0.567	
+0.052	0.403	0.545	
+B matrix for alpha = 10.0
+0.577	0.493	0.475	
+0.493	1.336	1.124	
+0.475	1.124	1.151	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for statesushiosla
+		statesushiosla
+		osla
+
+Random got 24.00 points. Random won 24.0% of the 100 games of the tournament. Random won 35.8% of the 67 games it played during the tournament.
+Random won 33.3% of the 33 games against statesushiosla.
+Random won 38.2% of the 34 games against osla.
+
+statesushiosla got 38.00 points. statesushiosla won 38.0% of the 100 games of the tournament. statesushiosla won 57.6% of the 66 games it played during the tournament.
+statesushiosla won 66.7% of the 33 games against Random.
+statesushiosla won 48.5% of the 33 games against osla.
+
+osla got 38.00 points. osla won 38.0% of the 100 games of the tournament. osla won 56.7% of the 67 games it played during the tournament.
+osla won 61.8% of the 34 games against Random.
+osla won 51.5% of the 33 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+statesushiosla: Win rate 0.58 +/- 0.061	Mean Ordinal 1.42 +/- 0.06
+osla: Win rate 0.57 +/- 0.061	Mean Ordinal 1.43 +/- 0.06
+Random: Win rate 0.36 +/- 0.059	Mean Ordinal 1.64 +/- 0.06
+
+Alpha-rank by Win Rate
+	osla                          	0.54
+	statesushiosla                	0.42
+	Random                        	0.04
+
+Alpha-rank by Ordinal Position
+	osla                          	0.54
+	statesushiosla                	0.42
+	Random                        	0.04
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 4, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.000	Random
+	0.000	statesushiosla
+	1.000	osla
+
+Transition matrix for alpha = 10.0
+0.000	0.500	0.500	
+0.000	0.000	1.000	
+0.000	0.000	1.000	
+B matrix for alpha = 10.0
+0.500	0.500	0.500	
+0.500	1.250	1.250	
+0.500	1.250	3.250	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.000	Random
+	0.000	statesushiosla
+	1.000	osla
+
+Transition matrix for alpha = 10.0
+0.000	0.500	0.500	
+0.000	0.000	1.000	
+0.000	0.000	1.000	
+B matrix for alpha = 10.0
+0.500	0.500	0.500	
+0.500	1.250	1.250	
+0.500	1.250	3.250	
+Random got 0.00 points. Random won 0.0% of the 4 games of the tournament. Random won 0.0% of the 3 games it played during the tournament.
+Random won 0.0% of the 1 games against statesushiosla.
+Random won 0.0% of the 2 games against osla.
+
+statesushiosla got 1.00 points. statesushiosla won 25.0% of the 4 games of the tournament. statesushiosla won 50.0% of the 2 games it played during the tournament.
+statesushiosla won 100.0% of the 1 games against Random.
+statesushiosla won 0.0% of the 1 games against osla.
+
+osla got 3.00 points. osla won 75.0% of the 4 games of the tournament. osla won 100.0% of the 3 games it played during the tournament.
+osla won 100.0% of the 2 games against Random.
+osla won 100.0% of the 1 games against statesushiosla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+osla: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+statesushiosla: Win rate 0.50 +/- 0.354	Mean Ordinal 1.50 +/- 0.35
+Random: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Alpha-rank by Win Rate
+	osla                          	1.00
+	statesushiosla                	0.00
+	Random                        	0.00
+
+Alpha-rank by Ordinal Position
+	osla                          	1.00
+	statesushiosla                	0.00
+	Random                        	0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 4, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	1.000	Random
+	0.000	OSLA: ScoreHeuristic
+	0.000	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	
+0.500	0.000	0.500	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+3.250	0.500	1.250	
+0.500	0.500	0.500	
+1.250	0.500	1.250	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	1.000	Random
+	0.000	OSLA: ScoreHeuristic
+	0.000	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	
+0.500	0.000	0.500	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+3.250	0.500	1.250	
+0.500	0.500	0.500	
+1.250	0.500	1.250	
+Random got 3.00 points. Random won 75.0% of the 4 games of the tournament. Random won 100.0% of the 3 games it played during the tournament.
+Random won 100.0% of the 1 games against OSLA: ScoreHeuristic.
+Random won 100.0% of the 2 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 0.00 points. OSLA: ScoreHeuristic won 0.0% of the 4 games of the tournament. OSLA: ScoreHeuristic won 0.0% of the 2 games it played during the tournament.
+OSLA: ScoreHeuristic won 0.0% of the 1 games against Random.
+OSLA: ScoreHeuristic won 0.0% of the 1 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 1.00 points. OSLA: StateValueSushiGoHeuristic won 25.0% of the 4 games of the tournament. OSLA: StateValueSushiGoHeuristic won 33.3% of the 3 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 0.0% of the 2 games against Random.
+OSLA: StateValueSushiGoHeuristic won 100.0% of the 1 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+OSLA: StateValueSushiGoHeuristic: Win rate 0.33 +/- 0.272	Mean Ordinal 1.67 +/- 0.27
+OSLA: ScoreHeuristic: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Alpha-rank by Win Rate
+	Random                        	1.00
+	OSLA: StateValueSushiGoHeuristic	0.00
+	OSLA: ScoreHeuristic          	0.00
+
+Alpha-rank by Ordinal Position
+	Random                        	1.00
+	OSLA: StateValueSushiGoHeuristic	0.00
+	OSLA: ScoreHeuristic          	0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 4, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	1.000	Random
+	0.000	OSLA: ScoreHeuristic
+	0.000	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+3.999	1.000	1.000	
+1.000	1.000	1.000	
+1.000	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for OSLA: ScoreHeuristic
+		OSLA: ScoreHeuristic
+		OSLA: StateValueSushiGoHeuristic
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	1.000	Random
+	0.000	OSLA: ScoreHeuristic
+	0.000	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+3.999	1.000	1.000	
+1.000	1.000	1.000	
+1.000	1.000	1.000	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for OSLA: ScoreHeuristic
+		OSLA: ScoreHeuristic
+		OSLA: StateValueSushiGoHeuristic
+
+Random got 2.00 points. Random won 50.0% of the 4 games of the tournament. Random won 100.0% of the 2 games it played during the tournament.
+Random won 100.0% of the 1 games against OSLA: ScoreHeuristic.
+Random won 100.0% of the 1 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 1.00 points. OSLA: ScoreHeuristic won 25.0% of the 4 games of the tournament. OSLA: ScoreHeuristic won 33.3% of the 3 games it played during the tournament.
+OSLA: ScoreHeuristic won 0.0% of the 1 games against Random.
+OSLA: ScoreHeuristic won 50.0% of the 2 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 1.00 points. OSLA: StateValueSushiGoHeuristic won 25.0% of the 4 games of the tournament. OSLA: StateValueSushiGoHeuristic won 33.3% of the 3 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 0.0% of the 1 games against Random.
+OSLA: StateValueSushiGoHeuristic won 50.0% of the 2 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Random: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+OSLA: ScoreHeuristic: Win rate 0.33 +/- 0.272	Mean Ordinal 1.67 +/- 0.27
+OSLA: StateValueSushiGoHeuristic: Win rate 0.33 +/- 0.272	Mean Ordinal 1.67 +/- 0.27
+
+Alpha-rank by Win Rate
+	Random                        	1.00
+	OSLA: ScoreHeuristic          	0.00
+	OSLA: StateValueSushiGoHeuristic	0.00
+
+Alpha-rank by Ordinal Position
+	Random                        	1.00
+	OSLA: ScoreHeuristic          	0.00
+	OSLA: StateValueSushiGoHeuristic	0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 4, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.250	Random
+	0.250	OSLA: ScoreHeuristic
+	0.500	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.000	1.000	0.000	
+0.000	0.000	1.000	
+0.500	0.000	0.500	
+B matrix for alpha = 10.0
+1.250	0.000	0.250	
+0.000	2.000	0.500	
+0.250	0.500	1.750	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.250	Random
+	0.250	OSLA: ScoreHeuristic
+	0.500	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.000	1.000	0.000	
+0.000	0.000	1.000	
+0.500	0.000	0.500	
+B matrix for alpha = 10.0
+1.250	0.000	0.250	
+0.000	2.000	0.500	
+0.250	0.500	1.750	
+Random got 1.00 points. Random won 25.0% of the 4 games of the tournament. Random won 33.3% of the 3 games it played during the tournament.
+Random won 0.0% of the 1 games against OSLA: ScoreHeuristic.
+Random won 50.0% of the 2 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 1.00 points. OSLA: ScoreHeuristic won 25.0% of the 4 games of the tournament. OSLA: ScoreHeuristic won 50.0% of the 2 games it played during the tournament.
+OSLA: ScoreHeuristic won 100.0% of the 1 games against Random.
+OSLA: ScoreHeuristic won 0.0% of the 1 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 2.00 points. OSLA: StateValueSushiGoHeuristic won 50.0% of the 4 games of the tournament. OSLA: StateValueSushiGoHeuristic won 66.7% of the 3 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 50.0% of the 2 games against Random.
+OSLA: StateValueSushiGoHeuristic won 100.0% of the 1 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+OSLA: StateValueSushiGoHeuristic: Win rate 0.67 +/- 0.272	Mean Ordinal 1.33 +/- 0.27
+OSLA: ScoreHeuristic: Win rate 0.50 +/- 0.354	Mean Ordinal 1.50 +/- 0.35
+Random: Win rate 0.33 +/- 0.272	Mean Ordinal 1.67 +/- 0.27
+
+Alpha-rank by Win Rate
+	OSLA: StateValueSushiGoHeuristic	0.50
+	OSLA: ScoreHeuristic          	0.25
+	Random                        	0.25
+
+Alpha-rank by Ordinal Position
+	OSLA: StateValueSushiGoHeuristic	0.50
+	OSLA: ScoreHeuristic          	0.25
+	Random                        	0.25
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 4, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.333	Random
+	0.333	OSLA: ScoreHeuristic
+	0.333	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.000	1.000	0.000	
+0.000	0.000	1.000	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+2.000	0.000	0.000	
+0.000	2.000	0.000	
+0.000	0.000	2.000	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.333	Random
+	0.333	OSLA: ScoreHeuristic
+	0.333	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.000	1.000	0.000	
+0.000	0.000	1.000	
+1.000	0.000	0.000	
+B matrix for alpha = 10.0
+2.000	0.000	0.000	
+0.000	2.000	0.000	
+0.000	0.000	2.000	
+Random got 1.00 points. Random won 25.0% of the 4 games of the tournament. Random won 50.0% of the 2 games it played during the tournament.
+Random won 0.0% of the 1 games against OSLA: ScoreHeuristic.
+Random won 100.0% of the 1 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 1.00 points. OSLA: ScoreHeuristic won 25.0% of the 4 games of the tournament. OSLA: ScoreHeuristic won 33.3% of the 3 games it played during the tournament.
+OSLA: ScoreHeuristic won 100.0% of the 1 games against Random.
+OSLA: ScoreHeuristic won 0.0% of the 2 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 2.00 points. OSLA: StateValueSushiGoHeuristic won 50.0% of the 4 games of the tournament. OSLA: StateValueSushiGoHeuristic won 66.7% of the 3 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 0.0% of the 1 games against Random.
+OSLA: StateValueSushiGoHeuristic won 100.0% of the 2 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+OSLA: StateValueSushiGoHeuristic: Win rate 0.67 +/- 0.272	Mean Ordinal 1.33 +/- 0.27
+Random: Win rate 0.50 +/- 0.354	Mean Ordinal 1.50 +/- 0.35
+OSLA: ScoreHeuristic: Win rate 0.33 +/- 0.272	Mean Ordinal 1.67 +/- 0.27
+
+Alpha-rank by Win Rate
+	Random                        	0.33
+	OSLA: ScoreHeuristic          	0.33
+	OSLA: StateValueSushiGoHeuristic	0.33
+
+Alpha-rank by Ordinal Position
+	Random                        	0.33
+	OSLA: ScoreHeuristic          	0.33
+	OSLA: StateValueSushiGoHeuristic	0.33
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.319	Random
+	0.068	OSLA: ScoreHeuristic
+	0.613	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.312	0.126	0.562	
+0.132	0.053	0.815	
+0.343	0.040	0.617	
+B matrix for alpha = 10.0
+0.662	0.566	0.953	
+0.566	0.704	0.689	
+0.953	0.689	1.860	
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.319	Random
+	0.068	OSLA: ScoreHeuristic
+	0.613	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.312	0.126	0.562	
+0.132	0.053	0.815	
+0.343	0.040	0.617	
+B matrix for alpha = 10.0
+0.662	0.566	0.953	
+0.566	0.704	0.689	
+0.953	0.689	1.860	
+Random got 34.00 points. Random won 34.0% of the 100 games of the tournament. Random won 50.7% of the 67 games it played during the tournament.
+Random won 54.5% of the 33 games against OSLA: ScoreHeuristic.
+Random won 47.1% of the 34 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 27.00 points. OSLA: ScoreHeuristic won 27.0% of the 100 games of the tournament. OSLA: ScoreHeuristic won 40.9% of the 66 games it played during the tournament.
+OSLA: ScoreHeuristic won 45.5% of the 33 games against Random.
+OSLA: ScoreHeuristic won 36.4% of the 33 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 39.00 points. OSLA: StateValueSushiGoHeuristic won 39.0% of the 100 games of the tournament. OSLA: StateValueSushiGoHeuristic won 58.2% of the 67 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 52.9% of the 34 games against Random.
+OSLA: StateValueSushiGoHeuristic won 63.6% of the 33 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+OSLA: StateValueSushiGoHeuristic: Win rate 0.58 +/- 0.060	Mean Ordinal 1.42 +/- 0.06
+Random: Win rate 0.51 +/- 0.061	Mean Ordinal 1.49 +/- 0.06
+OSLA: ScoreHeuristic: Win rate 0.41 +/- 0.061	Mean Ordinal 1.59 +/- 0.06
+
+Alpha-rank by Win Rate
+	OSLA: StateValueSushiGoHeuristic	0.61
+	Random                        	0.32
+	OSLA: ScoreHeuristic          	0.07
+
+Alpha-rank by Ordinal Position
+	OSLA: StateValueSushiGoHeuristic	0.61
+	Random                        	0.32
+	OSLA: ScoreHeuristic          	0.07
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1000, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.081	Random
+	0.129	OSLA: ScoreHeuristic
+	0.791	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.077	0.073	0.850	
+0.134	0.126	0.740	
+0.072	0.135	0.793	
+B matrix for alpha = 10.0
+0.762	0.681	0.911	
+0.681	0.621	0.876	
+0.911	0.876	2.551	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		OSLA: ScoreHeuristic
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.081	Random
+	0.129	OSLA: ScoreHeuristic
+	0.791	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.077	0.073	0.850	
+0.134	0.126	0.740	
+0.072	0.135	0.793	
+B matrix for alpha = 10.0
+0.762	0.681	0.911	
+0.681	0.621	0.876	
+0.911	0.876	2.551	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		OSLA: ScoreHeuristic
+
+Random got 294.50 points. Random won 29.3% of the 1000 games of the tournament. Random won 43.9% of the 667 games it played during the tournament.
+Random won 49.8% of the 333 games against OSLA: ScoreHeuristic.
+Random won 38.0% of the 334 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 302.50 points. OSLA: ScoreHeuristic won 30.1% of the 1000 games of the tournament. OSLA: ScoreHeuristic won 45.2% of the 666 games it played during the tournament.
+OSLA: ScoreHeuristic won 49.2% of the 333 games against Random.
+OSLA: ScoreHeuristic won 41.1% of the 333 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 403.00 points. OSLA: StateValueSushiGoHeuristic won 40.3% of the 1000 games of the tournament. OSLA: StateValueSushiGoHeuristic won 60.4% of the 667 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 62.0% of the 334 games against Random.
+OSLA: StateValueSushiGoHeuristic won 58.9% of the 333 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+OSLA: StateValueSushiGoHeuristic: Win rate 0.60 +/- 0.019	Mean Ordinal 1.40 +/- 0.02
+OSLA: ScoreHeuristic: Win rate 0.45 +/- 0.019	Mean Ordinal 1.54 +/- 0.02
+Random: Win rate 0.44 +/- 0.019	Mean Ordinal 1.56 +/- 0.02
+
+Alpha-rank by Win Rate
+	OSLA: StateValueSushiGoHeuristic	0.79
+	OSLA: ScoreHeuristic          	0.13
+	Random                        	0.08
+
+Alpha-rank by Ordinal Position
+	OSLA: StateValueSushiGoHeuristic	0.79
+	OSLA: ScoreHeuristic          	0.13
+	Random                        	0.08
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1000, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.129	Random
+	0.064	OSLA: ScoreHeuristic
+	0.807	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.126	0.115	0.759	
+0.066	0.060	0.874	
+0.134	0.056	0.810	
+B matrix for alpha = 10.0
+0.643	0.704	0.900	
+0.704	0.791	0.905	
+0.900	0.905	2.672	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		OSLA: ScoreHeuristic
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.129	Random
+	0.064	OSLA: ScoreHeuristic
+	0.807	OSLA: StateValueSushiGoHeuristic
+
+Transition matrix for alpha = 10.0
+0.126	0.115	0.759	
+0.066	0.060	0.874	
+0.134	0.056	0.810	
+B matrix for alpha = 10.0
+0.643	0.704	0.900	
+0.704	0.791	0.905	
+0.900	0.905	2.672	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		OSLA: ScoreHeuristic
+
+Random got 305.00 points. Random won 30.4% of the 1000 games of the tournament. Random won 45.6% of the 667 games it played during the tournament.
+Random won 50.2% of the 333 games against OSLA: ScoreHeuristic.
+Random won 41.0% of the 334 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: ScoreHeuristic got 287.00 points. OSLA: ScoreHeuristic won 28.6% of the 1000 games of the tournament. OSLA: ScoreHeuristic won 42.9% of the 666 games it played during the tournament.
+OSLA: ScoreHeuristic won 49.2% of the 333 games against Random.
+OSLA: ScoreHeuristic won 36.6% of the 333 games against OSLA: StateValueSushiGoHeuristic.
+
+OSLA: StateValueSushiGoHeuristic got 408.00 points. OSLA: StateValueSushiGoHeuristic won 40.8% of the 1000 games of the tournament. OSLA: StateValueSushiGoHeuristic won 61.2% of the 667 games it played during the tournament.
+OSLA: StateValueSushiGoHeuristic won 59.0% of the 334 games against Random.
+OSLA: StateValueSushiGoHeuristic won 63.4% of the 333 games against OSLA: ScoreHeuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+OSLA: StateValueSushiGoHeuristic: Win rate 0.61 +/- 0.019	Mean Ordinal 1.39 +/- 0.02
+Random: Win rate 0.46 +/- 0.019	Mean Ordinal 1.54 +/- 0.02
+OSLA: ScoreHeuristic: Win rate 0.43 +/- 0.019	Mean Ordinal 1.57 +/- 0.02
+
+Alpha-rank by Win Rate
+	OSLA: StateValueSushiGoHeuristic	0.81
+	Random                        	0.13
+	OSLA: ScoreHeuristic          	0.06
+
+Alpha-rank by Ordinal Position
+	OSLA: StateValueSushiGoHeuristic	0.81
+	Random                        	0.13
+	OSLA: ScoreHeuristic          	0.06
+

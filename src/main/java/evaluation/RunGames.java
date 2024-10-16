@@ -13,6 +13,8 @@ import org.json.simple.parser.ParseException;
 import players.PlayerFactory;
 import players.PlayerType;
 import players.basicMCTS.BasicMCTSPlayer;
+import players.heuristics.ScoreHeuristic;
+import players.heuristics.StateValueSushiGoHeuristic;
 import players.mcts.MCTSPlayer;
 import players.rmhc.RMHCPlayer;
 import players.simple.OSLAPlayer;
@@ -79,14 +81,16 @@ public class RunGames implements IGameRunner {
 
         LinkedList<AbstractPlayer> agents = new LinkedList<>();
         System.out.println("Player Directory: " + runGames.config.get(playerDirectory));
-        if (!runGames.config.get(playerDirectory).equals("")) {
+        if (!runGames.config.get(playerDirectory).equals("") && false) {
             agents.addAll(PlayerFactory.createPlayers((String) runGames.config.get(playerDirectory)));
         } else {
        //     agents.add(new MCTSPlayer());
 //            agents.add(new BasicMCTSPlayer());
             agents.add(new RandomPlayer());
-            agents.add(new RMHCPlayer());
-            agents.add(new OSLAPlayer());
+//            agents.add(new RMHCPlayer());
+//            agents.add(new OSLAPlayer());
+            agents.add(new OSLAPlayer(new ScoreHeuristic()));
+            agents.add(new OSLAPlayer(new StateValueSushiGoHeuristic()));
         }
         System.out.println("Agents: " + agents);
         runGames.agents = agents;

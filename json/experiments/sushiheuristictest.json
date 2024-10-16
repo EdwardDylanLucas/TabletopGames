@@ -1,0 +1,11 @@
+{
+  "game": "SushiGo",
+  "verbose": true,
+  "mode": "random",
+  "playerDirectory": "json/players/sushiheurtest",
+  "nPlayers": 2,
+  "matchups": 1000,
+  "destDir": "outputdirsushiheur",
+  "output": "outputdirsushiheur/Tournament.log",
+  "listener": "json/listeners/basiclistener.json"
+}
