@@ -57,9 +57,9 @@ public class StateValueSushiGoHeuristic implements IStateHeuristic {
         List<Deck<SGCard>> playedCards = gs.getPlayedCards();
         for (SGCard card : playedCards.get(playerId)) {
             score += cardValueMap.get(card.type);
-            System.out.println("Card: " + card.type + " Value: " + cardValueMap.get(card.type));
+  //          System.out.println("Card: " + card.type + " Value: " + cardValueMap.get(card.type));
         }
-        System.out.println("-----");
+   //     System.out.println("-----");
         return score;
     }
 

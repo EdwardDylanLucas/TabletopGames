@@ -939,3 +939,58 @@ Alpha-rank by Ordinal Position
 	Random                        	0.13
 	OSLA: ScoreHeuristic          	0.06
 
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+BasicMCTS got 7.00 points. BasicMCTS won 7.0% of the 100 games of the tournament. BasicMCTS won 7.0% of the 100 games it played during the tournament.
+BasicMCTS won 7.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 93.00 points. BasicMCTS won 93.0% of the 100 games of the tournament. BasicMCTS won 93.0% of the 100 games it played during the tournament.
+BasicMCTS won 93.0% of the 100 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.93 +/- 0.026	Mean Ordinal 1.07 +/- 0.03
+BasicMCTS: Win rate 0.07 +/- 0.026	Mean Ordinal 1.93 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 10, GamesPerMatchup: 1
+BasicMCTS got 2.00 points. BasicMCTS won 20.0% of the 10 games of the tournament. BasicMCTS won 20.0% of the 10 games it played during the tournament.
+BasicMCTS won 20.0% of the 10 games against BasicMCTS.
+
+BasicMCTS got 8.00 points. BasicMCTS won 80.0% of the 10 games of the tournament. BasicMCTS won 80.0% of the 10 games it played during the tournament.
+BasicMCTS won 80.0% of the 10 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.80 +/- 0.126	Mean Ordinal 1.20 +/- 0.13
+BasicMCTS: Win rate 0.20 +/- 0.126	Mean Ordinal 1.80 +/- 0.13
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 10, GamesPerMatchup: 1
+sushirhea got 0.00 points. sushirhea won 0.0% of the 10 games of the tournament. sushirhea won 0.0% of the 10 games it played during the tournament.
+sushirhea won 0.0% of the 10 games against rhea.
+
+rhea got 10.00 points. rhea won 100.0% of the 10 games of the tournament. rhea won 100.0% of the 10 games it played during the tournament.
+rhea won 100.0% of the 10 games against sushirhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+sushirhea: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 10, GamesPerMatchup: 1
+sushirhea got 1.00 points. sushirhea won 10.0% of the 10 games of the tournament. sushirhea won 10.0% of the 10 games it played during the tournament.
+sushirhea won 10.0% of the 10 games against rhea.
+
+rhea got 9.00 points. rhea won 90.0% of the 10 games of the tournament. rhea won 90.0% of the 10 games it played during the tournament.
+rhea won 90.0% of the 10 games against sushirhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0.90 +/- 0.095	Mean Ordinal 1.10 +/- 0.09
+sushirhea: Win rate 0.10 +/- 0.095	Mean Ordinal 1.90 +/- 0.09
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 10, GamesPerMatchup: 1
+BasicMCTS got 0.00 points. BasicMCTS won 0.0% of the 10 games of the tournament. BasicMCTS won 0.0% of the 10 games it played during the tournament.
+BasicMCTS won 0.0% of the 10 games against BasicMCTS.
+
+BasicMCTS got 10.00 points. BasicMCTS won 100.0% of the 10 games of the tournament. BasicMCTS won 100.0% of the 10 games it played during the tournament.
+BasicMCTS won 100.0% of the 10 games against BasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+BasicMCTS: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+

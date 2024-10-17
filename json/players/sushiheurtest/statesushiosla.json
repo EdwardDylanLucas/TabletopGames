@@ -1,6 +1,0 @@
-{
-	"class":"players.simple.OSLAPlayer",
-	"heuristic" : {
-		"class" : "players.heuristics.ScoreHeuristic"
-	}
-}
