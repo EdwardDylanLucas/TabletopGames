@@ -14,6 +14,9 @@ import static games.sushigo.cards.SGCard.SGCardType.Pudding;
 
 public class StateValueSushiGoHeuristic implements IStateHeuristic {
 
+    // todo - this is a hack to allow the heuristic to know what the current card is
+    // it makes sense when using in one step lookahead, but not in general
+    // and not to evaluate a terminal state
     public SGCard currentCard = null;
 
     private final double tempuraValue = 5.0 / 2;
@@ -57,10 +60,11 @@ public class StateValueSushiGoHeuristic implements IStateHeuristic {
         List<Deck<SGCard>> playedCards = gs.getPlayedCards();
         for (SGCard card : playedCards.get(playerId)) {
             score += cardValueMap.get(card.type);
-  //          System.out.println("Card: " + card.type + " Value: " + cardValueMap.get(card.type));
+            //          System.out.println("Card: " + card.type + " Value: " + cardValueMap.get(card.type));
         }
-   //     System.out.println("-----");
-        return score;
+        //     System.out.println("-----");
+        return state.getGameScore(playerId);
+        //return score;
     }
 
 }

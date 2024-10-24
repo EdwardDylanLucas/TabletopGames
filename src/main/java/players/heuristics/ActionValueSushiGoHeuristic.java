@@ -25,7 +25,7 @@ public class ActionValueSushiGoHeuristic implements IActionHeuristic {
     private final double eggNigiriValue = 1.0;
     private final double wasabiMultiplier = 2.0;
     private final double makiValuePerRoll = 1.0;
-    private final double chopsticksValue = 2.0;
+    private final double chopsticksValue = 4.0;
     private final double puddingValue = 4.0;
 
     private HashMap<SGCardType, Double> actionValueMap = new HashMap<SGCardType, Double>();
@@ -60,7 +60,7 @@ public class ActionValueSushiGoHeuristic implements IActionHeuristic {
         }
 //        System.out.println("Returning value: " + value + " for card: " + card.type);
 //        System.out.println();
-        return value;
+        return -value;
     }
 
 

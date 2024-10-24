@@ -4,7 +4,7 @@
   "mode": "random",
   "playerDirectory": "json/players/sushiheurtest",
   "nPlayers": 2,
-  "matchups": 10,
+  "matchups": 200,
   "destDir": "outputdirsushiheur",
   "output": "outputdirsushiheur/Tournament.log",
   "listener": "json/listeners/basiclistener.json"

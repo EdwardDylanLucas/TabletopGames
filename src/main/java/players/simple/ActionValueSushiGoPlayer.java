@@ -8,7 +8,7 @@ import java.util.List;
 
 public class ActionValueSushiGoPlayer extends BoltzmannActionPlayer {
     public ActionValueSushiGoPlayer() {
-        super(new ActionValueSushiGoHeuristic());
+        super(new ActionValueSushiGoHeuristic(), 0.0001, 0.0001);
     }
 
     @Override

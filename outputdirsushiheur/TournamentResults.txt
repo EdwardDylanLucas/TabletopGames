@@ -994,3 +994,135 @@ BasicMCTS won 100.0% of the 10 games against BasicMCTS.
 BasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
 BasicMCTS: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
 
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 10, GamesPerMatchup: 1
+SushiBasicMCTS got 0.00 points. SushiBasicMCTS won 0.0% of the 10 games of the tournament. SushiBasicMCTS won 0.0% of the 10 games it played during the tournament.
+SushiBasicMCTS won 0.0% of the 10 games against BasicMCTS.
+
+BasicMCTS got 10.00 points. BasicMCTS won 100.0% of the 10 games of the tournament. BasicMCTS won 100.0% of the 10 games it played during the tournament.
+BasicMCTS won 100.0% of the 10 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+SushiBasicMCTS: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 6.00 points. SushiBasicMCTS won 6.0% of the 100 games of the tournament. SushiBasicMCTS won 6.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 6.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 94.00 points. BasicMCTS won 94.0% of the 100 games of the tournament. BasicMCTS won 94.0% of the 100 games it played during the tournament.
+BasicMCTS won 94.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.94 +/- 0.024	Mean Ordinal 1.06 +/- 0.02
+SushiBasicMCTS: Win rate 0.06 +/- 0.024	Mean Ordinal 1.94 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 46.50 points. SushiBasicMCTS won 46.0% of the 100 games of the tournament. SushiBasicMCTS won 46.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 46.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 53.50 points. BasicMCTS won 53.0% of the 100 games of the tournament. BasicMCTS won 53.0% of the 100 games it played during the tournament.
+BasicMCTS won 53.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.54 +/- 0.050	Mean Ordinal 1.46 +/- 0.05
+SushiBasicMCTS: Win rate 0.47 +/- 0.050	Mean Ordinal 1.53 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 35.50 points. SushiBasicMCTS won 35.0% of the 100 games of the tournament. SushiBasicMCTS won 35.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 35.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 64.50 points. BasicMCTS won 64.0% of the 100 games of the tournament. BasicMCTS won 64.0% of the 100 games it played during the tournament.
+BasicMCTS won 64.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.65 +/- 0.048	Mean Ordinal 1.35 +/- 0.05
+SushiBasicMCTS: Win rate 0.36 +/- 0.048	Mean Ordinal 1.64 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 50.50 points. SushiBasicMCTS won 50.0% of the 100 games of the tournament. SushiBasicMCTS won 50.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 50.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 49.50 points. BasicMCTS won 49.0% of the 100 games of the tournament. BasicMCTS won 49.0% of the 100 games it played during the tournament.
+BasicMCTS won 49.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 0.51 +/- 0.050	Mean Ordinal 1.49 +/- 0.05
+BasicMCTS: Win rate 0.50 +/- 0.050	Mean Ordinal 1.50 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 50.00 points. SushiBasicMCTS won 50.0% of the 100 games of the tournament. SushiBasicMCTS won 50.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 50.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 50.00 points. BasicMCTS won 50.0% of the 100 games of the tournament. BasicMCTS won 50.0% of the 100 games it played during the tournament.
+BasicMCTS won 50.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 0.50 +/- 0.050	Mean Ordinal 1.50 +/- 0.05
+BasicMCTS: Win rate 0.50 +/- 0.050	Mean Ordinal 1.50 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 57.00 points. SushiBasicMCTS won 57.0% of the 100 games of the tournament. SushiBasicMCTS won 57.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 57.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 43.00 points. BasicMCTS won 43.0% of the 100 games of the tournament. BasicMCTS won 43.0% of the 100 games it played during the tournament.
+BasicMCTS won 43.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 0.57 +/- 0.050	Mean Ordinal 1.43 +/- 0.05
+BasicMCTS: Win rate 0.43 +/- 0.050	Mean Ordinal 1.57 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 52.00 points. SushiBasicMCTS won 52.0% of the 100 games of the tournament. SushiBasicMCTS won 52.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 52.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 48.00 points. BasicMCTS won 48.0% of the 100 games of the tournament. BasicMCTS won 48.0% of the 100 games it played during the tournament.
+BasicMCTS won 48.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 0.52 +/- 0.050	Mean Ordinal 1.48 +/- 0.05
+BasicMCTS: Win rate 0.48 +/- 0.050	Mean Ordinal 1.52 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 100.00 points. SushiBasicMCTS won 100.0% of the 100 games of the tournament. SushiBasicMCTS won 100.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 100.0% of the 100 games against Random.
+
+Random got 0.00 points. Random won 0.0% of the 100 games of the tournament. Random won 0.0% of the 100 games it played during the tournament.
+Random won 0.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 1.00 +/- 0.000	Mean Ordinal 1.00 +/- 0.00
+Random: Win rate 0.00 +/- 0.000	Mean Ordinal 2.00 +/- 0.00
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+SushiBasicMCTS got 69.00 points. SushiBasicMCTS won 68.0% of the 100 games of the tournament. SushiBasicMCTS won 68.0% of the 100 games it played during the tournament.
+SushiBasicMCTS won 68.0% of the 100 games against BasicMCTS.
+
+BasicMCTS got 31.00 points. BasicMCTS won 30.0% of the 100 games of the tournament. BasicMCTS won 30.0% of the 100 games it played during the tournament.
+BasicMCTS won 30.0% of the 100 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 0.69 +/- 0.046	Mean Ordinal 1.30 +/- 0.05
+BasicMCTS: Win rate 0.31 +/- 0.046	Mean Ordinal 1.68 +/- 0.05
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 200, GamesPerMatchup: 1
+SushiBasicMCTS got 147.00 points. SushiBasicMCTS won 73.5% of the 200 games of the tournament. SushiBasicMCTS won 73.5% of the 200 games it played during the tournament.
+SushiBasicMCTS won 73.5% of the 200 games against BasicMCTS.
+
+BasicMCTS got 53.00 points. BasicMCTS won 26.5% of the 200 games of the tournament. BasicMCTS won 26.5% of the 200 games it played during the tournament.
+BasicMCTS won 26.5% of the 200 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+SushiBasicMCTS: Win rate 0.74 +/- 0.031	Mean Ordinal 1.27 +/- 0.03
+BasicMCTS: Win rate 0.27 +/- 0.031	Mean Ordinal 1.74 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 200, GamesPerMatchup: 1
+SushiBasicMCTS got 44.50 points. SushiBasicMCTS won 22.0% of the 200 games of the tournament. SushiBasicMCTS won 22.0% of the 200 games it played during the tournament.
+SushiBasicMCTS won 22.0% of the 200 games against mcts.
+
+mcts got 155.50 points. mcts won 77.5% of the 200 games of the tournament. mcts won 77.5% of the 200 games it played during the tournament.
+mcts won 77.5% of the 200 games against SushiBasicMCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+mcts: Win rate 0.78 +/- 0.029	Mean Ordinal 1.22 +/- 0.03
+SushiBasicMCTS: Win rate 0.22 +/- 0.029	Mean Ordinal 1.78 +/- 0.03
+
