@@ -15,22 +15,29 @@ public class BasicMCTSParams extends PlayerParameters {
     public double epsilon = 1e-6;
     public IStateHeuristic heuristic = AbstractGameState::getHeuristicScore;
 
+    // hack for now: add in the card values as params here
+    public double puddingValue = 5.0/2;
+
     public BasicMCTSParams() {
-        addTunableParameter("K", Math.sqrt(2), Arrays.asList(0.0, 0.1, 1.0, Math.sqrt(2), 3.0, 10.0));
-        addTunableParameter("rolloutLength", 10, Arrays.asList(0, 3, 10, 30, 100));
-        addTunableParameter("maxTreeDepth", 100, Arrays.asList(1, 3, 10, 30, 100));
-        addTunableParameter("epsilon", 1e-6);
-        addTunableParameter("heuristic", (IStateHeuristic) AbstractGameState::getHeuristicScore);
+//        addTunableParameter("K", Math.sqrt(2), Arrays.asList(0.0, 0.1, 1.0, Math.sqrt(2), 3.0, 10.0));
+//        addTunableParameter("rolloutLength", 10, Arrays.asList(0, 3, 10, 30, 100));
+//        addTunableParameter("maxTreeDepth", 100, Arrays.asList(1, 3, 10, 30, 100));
+//        addTunableParameter("epsilon", 1e-6);
+//        addTunableParameter("heuristic", (IStateHeuristic) AbstractGameState::getHeuristicScore);
+
+        addTunableParameter("puddingValue", 5.0/2);
     }
 
     @Override
     public void _reset() {
         super._reset();
-        K = (double) getParameterValue("K");
-        rolloutLength = (int) getParameterValue("rolloutLength");
-        maxTreeDepth = (int) getParameterValue("maxTreeDepth");
-        epsilon = (double) getParameterValue("epsilon");
-        heuristic = (IStateHeuristic) getParameterValue("heuristic");
+//        K = (double) getParameterValue("K");
+//        rolloutLength = (int) getParameterValue("rolloutLength");
+//        maxTreeDepth = (int) getParameterValue("maxTreeDepth");
+//        epsilon = (double) getParameterValue("epsilon");
+//        heuristic = (IStateHeuristic) getParameterValue("heuristic");
+
+        puddingValue = (double) getParameterValue("puddingValue");
     }
 
     @Override

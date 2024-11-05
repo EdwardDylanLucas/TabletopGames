@@ -3,9 +3,11 @@ package players.sushibasicMCTS;
 import core.AbstractGameState;
 import core.actions.AbstractAction;
 import players.PlayerConstants;
+import players.heuristics.ActionValueSushiGoHeuristic;
 import players.simple.ActionValueSushiGoPlayer;
 import players.simple.RandomPlayer;
 import utilities.ElapsedCpuTimer;
+import games.sushigo.cards.SGCard;
 
 import java.util.*;
 
@@ -63,6 +65,11 @@ class SushiBasicTreeNode {
     void mctsSearch() {
 
         BasicMCTSParams params = player.getParameters();
+        var heuristic = new ActionValueSushiGoHeuristic();
+        heuristic.actionValueMap.put(SGCard.SGCardType.Pudding, params.puddingValue);
+
+        // probably not needed
+        rolloutPlayer.setActionHeuristic(heuristic);
 
         // Variables for tracking time budget
         double avgTimeTaken;
@@ -203,6 +210,14 @@ class SushiBasicTreeNode {
             // Find child value
             double hvVal = child.totValue;
             double childValue = hvVal / (child.nVisits + params.epsilon);
+
+            var heuristic = new ActionValueSushiGoHeuristic();
+            heuristic.actionValueMap.put(SGCard.SGCardType.Pudding, params.puddingValue);
+
+            double heuristicActionValue = heuristic.evaluateAction(action, state, player.getForwardModel().computeAvailableActions(state, player.getParameters().actionSpace));
+
+            double heuristicWeight = 0.0001;
+            childValue += heuristicActionValue * heuristicWeight;
 
             // default to standard UCB
             double explorationTerm = params.K * Math.sqrt(Math.log(this.nVisits + 1) / (child.nVisits + params.epsilon));

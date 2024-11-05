@@ -17,18 +17,18 @@ import static games.sushigo.cards.SGCard.SGCardType.*;
 
 public class ActionValueSushiGoHeuristic implements IActionHeuristic {
 
-    private final double tempuraValue = 5.0/2;
-    private final double sashimiValue = 10.0/3;
-    private final double dumplingValue = 3.0/2;
-    private final double squidNigiriValue = 3.0;
-    private final double salmonNigiriValue = 2.0;
-    private final double eggNigiriValue = 1.0;
-    private final double wasabiMultiplier = 2.0;
-    private final double makiValuePerRoll = 1.0;
-    private final double chopsticksValue = 4.0;
-    private final double puddingValue = 4.0;
+    private final double tempuraValue = -3.0;
+    private final double sashimiValue = 0;
+    private final double dumplingValue = 3.0;
+    private final double squidNigiriValue = -3.0;
+    private final double salmonNigiriValue = 0;
+    private final double eggNigiriValue = -3.0;
+    private final double wasabiMultiplier = 0;
+    private final double makiValuePerRoll = 3.0;
+    private final double chopsticksValue = -1.0;
+    private final double puddingValue = 1.0;
 
-    private HashMap<SGCardType, Double> actionValueMap = new HashMap<SGCardType, Double>();
+    public HashMap<SGCardType, Double> actionValueMap = new HashMap<SGCardType, Double>();
 
     public ActionValueSushiGoHeuristic() {
         actionValueMap.put(Tempura, tempuraValue);

@@ -181,6 +181,7 @@ public class NTBEA {
                 config.put(RunArg.distinctRandomSeeds, 0);
                 config.put(RunArg.budget, params.budget);
                 config.put(RunArg.verbose, false);
+                config.put(matchups, 50);
                 config.put(RunArg.destDir, params.destDir);
                 RoundRobinTournament tournament = new RoundRobinTournament(players, game, nPlayers, params.gameParams, config);
                 createListeners().forEach(tournament::addListener);

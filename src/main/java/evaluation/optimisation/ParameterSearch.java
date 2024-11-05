@@ -65,6 +65,18 @@ public class ParameterSearch {
         NTBEAParameters params = new NTBEAParameters(config);
         params.printSearchSpaceDetails();
 
+        System.out.println("Running NTBEA with the following parameters:");
+        System.out.println(params);
+
+        params.verbose = true;
+        params.budget = 30;
+        params.iterationsPerRun = 30;
+        params.repeats = 3;
+        params.evalGames = 20;
+        params.evalMethod = "Win";
+        params.neighbourhoodSize = 5;
+        params.kExplore = 0.2;
+
         switch (params.mode) {
             case NTBEA:
             case CoopNTBEA:
@@ -76,6 +88,10 @@ public class ParameterSearch {
                 MultiNTBEA multiNTBEA = new MultiNTBEA(params, game, nPlayers);
                 multiNTBEA.run();
                 break;
+        }
+        // loop over the key value pairs and print them out
+        for (Map.Entry<RunArg, Object> entry : config.entrySet()) {
+            System.out.println(entry.getKey() + " : " + entry.getValue());
         }
 
     }

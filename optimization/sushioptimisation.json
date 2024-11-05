@@ -1,0 +1,13 @@
+{
+  "game": "SushiGo",
+  "nPlayers": 2,
+  "searchSpace": "sushiSearchSpace.json",
+  "mode": "StableNTBEA",
+  "iterations": 1000,
+  "explorationRate": 0.1,
+  "rolloutType": "heuristic",
+  "ntbeaConfig": {
+    "kExplore": 100,
+    "neighborhood": 5
+  }
+}

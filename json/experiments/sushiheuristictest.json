@@ -2,9 +2,9 @@
   "game": "SushiGo",
   "verbose": true,
   "mode": "random",
-  "playerDirectory": "json/players/sushiheurtest",
+  "playerDirectory": "json/players/testingsushiplayer",
   "nPlayers": 2,
-  "matchups": 200,
+  "matchups": 500,
   "destDir": "outputdirsushiheur",
   "output": "outputdirsushiheur/Tournament.log",
   "listener": "json/listeners/basiclistener.json"
