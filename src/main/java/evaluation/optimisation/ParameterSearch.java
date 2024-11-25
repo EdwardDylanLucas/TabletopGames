@@ -75,6 +75,7 @@ public class ParameterSearch {
         params.evalGames = 20;
         params.evalMethod = "Win";
         params.neighbourhoodSize = 5;
+//        params.opponentDescriptor = "players.basicMCTS.BasicMCTSPlayer";
         params.kExplore = 0.2;
 
         switch (params.mode) {

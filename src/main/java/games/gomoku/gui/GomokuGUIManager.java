@@ -7,9 +7,6 @@ import core.Game;
 import core.actions.AbstractAction;
 import core.actions.SetGridValueAction;
 import core.components.Token;
-import games.connect4.Connect4Constants;
-import games.connect4.Connect4GameState;
-import games.connect4.gui.Connect4BoardView;
 import games.gomoku.GomokuGameState;
 import games.gomoku.GomokuConstants;
 import gui.AbstractGUIManager;
@@ -68,7 +65,7 @@ public class GomokuGUIManager extends AbstractGUIManager {
                     SetGridValueAction<Token> action = (SetGridValueAction<Token>) abstractAction;
                     if (action.getX() == r.x/defaultItemSize) { // && action.getY() == r.y/defaultItemSize) {
                         actionButtons[0].setVisible(true);
-                        actionButtons[0].setButtonAction(action, "Play " + Connect4Constants.playerMapping.get(player.getPlayerID())
+                        actionButtons[0].setButtonAction(action, "Play " + GomokuConstants.playerMapping.get(player.getPlayerID())
                                 + " in column " + (action.getX() + 1));
                         break;
                     }

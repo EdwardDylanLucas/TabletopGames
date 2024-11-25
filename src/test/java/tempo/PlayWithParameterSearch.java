@@ -13,6 +13,7 @@ public class PlayWithParameterSearch {
 //                "searchSpace=players.sushibasicMCTS.BasicMCTSParams",
                 "game=SushiGo",
                 "nPlayers=2",
+                "opponent=mcts"
 //                "nEvals=10",
 //                "NTBEAMode=StableNTBEA",
 //                "repeats=3",

@@ -67,6 +67,15 @@ class SushiBasicTreeNode {
         BasicMCTSParams params = player.getParameters();
         var heuristic = new ActionValueSushiGoHeuristic();
         heuristic.actionValueMap.put(SGCard.SGCardType.Pudding, params.puddingValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.Tempura, params.tempuraValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.Sashimi, params.sashimiValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.Dumpling, params.dumplingValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.Maki, params.makiValuePerRoll);
+        heuristic.actionValueMap.put(SGCard.SGCardType.SquidNigiri, params.squidNigiriValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.SalmonNigiri, params.salmonNigiriValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.EggNigiri, params.eggNigiriValue);
+        heuristic.actionValueMap.put(SGCard.SGCardType.Wasabi, params.wasabiMultiplier);
+        heuristic.actionValueMap.put(SGCard.SGCardType.Chopsticks, params.chopsticksValue);
 
         // probably not needed
         rolloutPlayer.setActionHeuristic(heuristic);
@@ -213,6 +222,15 @@ class SushiBasicTreeNode {
 
             var heuristic = new ActionValueSushiGoHeuristic();
             heuristic.actionValueMap.put(SGCard.SGCardType.Pudding, params.puddingValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.Tempura, params.tempuraValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.Sashimi, params.sashimiValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.Dumpling, params.dumplingValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.Maki, params.makiValuePerRoll);
+            heuristic.actionValueMap.put(SGCard.SGCardType.SquidNigiri, params.squidNigiriValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.SalmonNigiri, params.salmonNigiriValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.EggNigiri, params.eggNigiriValue);
+            heuristic.actionValueMap.put(SGCard.SGCardType.Wasabi, params.wasabiMultiplier);
+            heuristic.actionValueMap.put(SGCard.SGCardType.Chopsticks, params.chopsticksValue);
 
             double heuristicActionValue = heuristic.evaluateAction(action, state, player.getForwardModel().computeAvailableActions(state, player.getParameters().actionSpace));
 
